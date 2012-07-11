@@ -1,11 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2011-12-25T00:00:00">
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T02:57:49">
   <!--This file contains games whose saves are only compatible with Steam releases of the game-->
+  <game name="AlanWake" platform="Steam">
+    <title>Alan Wake</title>
+    <location_path environment_variable="steamuserdata" path="108710"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
+  <game name="AlanWakesAmericanNightmare" platform="Steam">
+    <title>Alan Wake's American Nightmare</title>
+    <location_path environment_variable="steamuserdata" path="202750"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
   <game name="AlienSwarm" platform="Steam">
     <title>Alien Swarm</title>
     <location_path environment_variable="steamuserdata" path="630"/>
     <save/>
     <contributer>AvvA</contributer>
+  </game>
+  <game name="AlternativA" platform="Steam">
+    <title>AlternativA</title>
+    <location_path environment_variable="steamuserdata" path="33990"/>
+    <save/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="AnomalyWarzoneEarth" platform="Steam">
+    <title>Anomaly: Warzone Earth</title>
+    <location_path environment_variable="steamuserdata" path="91200"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
   </game>
   <game name="Bastion" platform="Steam">
     <title>Bastion</title>
@@ -25,6 +49,12 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
+  <game name="CallOfJuarezTheCartel" platform="Steam">
+    <title>Call of Juarez: The Cartel</title>
+    <location_path environment_variable="steamuserdata" path="33420\remote\out"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
   <game name="Civilization5" platform="Steam">
     <title>Sid Meier's Civilization V</title>
     <location_path environment_variable="steamuserdata" path="8930"/>
@@ -36,6 +66,12 @@
     <location_path environment_variable="steamuserdata" path="91310"/>
     <save/>
     <contributer>Arc Angel</contributer>
+  </game>
+  <game name="DearEsther" platform="Steam">
+    <title>Dear Esther</title>
+    <location_path environment_variable="steamuserdata" path="203810"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="DefenseGridTheAwakening" platform="Steam">
     <title>Defense Grid: The Awakening</title>
@@ -97,6 +133,12 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
+  <game name="KingdomsOfAmalurReckoning" platform="Steam">
+    <title>Kingdoms of Amalur: Reckoning</title>
+    <location_path environment_variable="steamuserdata" path="102500"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
   <game name="LaraCroftAndTheGuardianOfLight" platform="Steam">
     <title>Lara Croft and the Guardian of Light</title>
     <location_path environment_variable="steamuserdata" path="35130" read_only="true"/>
@@ -111,11 +153,30 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
+  <game name="MadballsBaboInvasion" platform="Steam">
+    <title>Madballs in.. BaboInvasion</title>
+    <location_path environment_variable="steamuserdata" path="25700"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
+  <game name="MidnightClub2" platform="Steam">
+    <title>Midnight Club 2</title>
+    <location_path environment_variable="steamcommon" path="Midnight Club 2\userdata"/>
+    <save/>
+    <ignore path="mp3"/>
+    <contributer>Arc Angel</contributer>
+  </game>
   <game name="MonkeyIsland2SpecialEditionLeChucksRevenge" platform="Steam">
-    <title>Monkey Island 2 Special Edition: LeChucks Revenge</title>
+    <title>Monkey Island™ 2 Special Edition: LeChuck’s Revenge</title>
     <location_path environment_variable="steamuserdata" path="32460"/>
     <save/>
     <contributer>slake_jones</contributer>
+  </game>
+  <game name="PaydayTheHeist" platform="Steam">
+    <title>Payday: The Heist</title>
+    <location_path environment_variable="steamuserdata" path="24240\remote"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
   </game>
   <game name="PoundOfGround" platform="Steam">
     <title>Pound of Ground</title>
@@ -141,9 +202,33 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
+  <game name="RevengeOfTheTitans" platform="Steam">
+    <title>Revenge of the Titans</title>
+    <location_path environment_variable="steamuserdata" path="93200\remote\.revenge_of_the_titans_1.80"/>
+    <save/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
   <game name="RunespellOverture" platform="Steam">
     <title>Runespell: Overture</title>
     <location_path environment_variable="steamuserdata" path="102200"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
+  <game name="RUSE" platform="Steam">
+    <title>R.U.S.E.</title>
+    <location_path environment_variable="steamuserdata" path="21970"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
+  <game name="SaintsRow3" platform="Steam">
+    <title>Saint's Row: The Third</title>
+    <location_path environment_variable="steamuserdata" path="55230"/>
+    <save/>
+    <contributer>Christian Hamann</contributer>
+  </game>
+  <game name="SeriousSam3BFE" platform="Steam">
+    <title>Serious Sam 3: BFE</title>
+    <location_path environment_variable="steamuserdata" path="41070\local"/>
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
@@ -165,10 +250,46 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
+  <game name="Stacking" platform="Steam">
+    <title>Stacking</title>
+    <location_path environment_variable="steamuserdata" path="115110"/>
+    <save/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="SuperbrothersSwordAndSorcery" platform="Steam">
+    <title>Superbrothers: Sword &amp; Sorcery</title>
+    <location_path environment_variable="steamuserdata" path="204060"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="TitanXCIX1" platform="Steam">
+    <title>Titan: XCIX - Part 1</title>
+    <location_path environment_variable="steamsourcemods" path="SurvivorIZ"/>
+    <save path="SAVE"/>
+    <contributer>Arc Angel</contributer>
+  </game>
   <game name="Trine" platform="Steam">
     <title>Trine</title>
     <location_path environment_variable="steamuserdata" path="35700"/>
     <save/>
     <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Trine2" platform="Steam">
+    <title>Trine 2</title>
+    <location_path environment_variable="steamuserdata" path="35720"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
+  </game>
+  <game name="Warhammer40kDawnOfWar2Retribution" platform="Steam">
+    <title>Warhammer 40,000: Dawn of War II - Retribution</title>
+    <location_path environment_variable="steamuserdata" path="56400"/>
+    <save/>
+    <contributer>AvvA</contributer>
+  </game>
+  <game name="Warhammer40kSpaceMarine" platform="Steam">
+    <title>Warhammer 40,000: Space Marine</title>
+    <location_path environment_variable="steamuserdata" path="55150\remote"/>
+    <save/>
+    <contributer>Arc Angel</contributer>
   </game>
 </games>

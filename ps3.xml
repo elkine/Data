@@ -1,19 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2011-12-25T00:00:00">
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T03:00:11">
   <!--This file contains PlayStation 3 games-->
   <game name="AssassinsCreed" platform="PS3" country="USA">
     <title>Assassin's Creed</title>
     <ps_code prefix="BLUS" suffix="30089"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="AssassinsCreedBrotherhood" platform="PS3" country="EUR">
+    <title>Assassin's Creed: Brotherhood</title>
+    <ps_code prefix="BLES" suffix="00909"/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="AssassinsCreedRevelations" platform="PS3" country="EUR">
+    <title>Assassin's Creed: Revelations</title>
+    <ps_code prefix="BLES" suffix="01384"/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
   <game name="BattlefieldBadcompany" platform="PS3" country="USA">
     <title>Battlefield: Bad Company</title>
     <ps_code prefix="BLUS" suffix="30118"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="BeyondGoodAndEvil" platform="PS3" country="USA">
+    <title>Beyond Good &amp; Evil</title>
+    <ps_code prefix="NPUB" suffix="30394"/>
+    <ps_code prefix="NPUB" suffix="30394"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="BladeKitten" platform="PS3" country="USA">
+    <title>BladeKitten</title>
+    <ps_code prefix="NPUB" suffix="30253"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="BrutalLegend" platform="PS3" country="USA">
     <title>Brütal Legend</title>
     <ps_code prefix="BLUS" suffix="30330"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Catan" platform="PS3" country="USA">
+    <title>Catan</title>
+    <ps_code prefix="NPUB" suffix="30236"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="CivilizationRevolution" platform="PS3" country="USA">
@@ -24,6 +50,11 @@
   <game name="Darkness" platform="PS3" country="USA">
     <title>The Darkness</title>
     <ps_code prefix="BLUS" suffix="30035"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="DeadNation" platform="PS3" country="USA">
+    <title>Dead Nation</title>
+    <ps_code prefix="NPUA" suffix="80358"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="DeadSpace" platform="PS3" country="USA">
@@ -61,6 +92,11 @@
     <ps_code prefix="MRTC" suffix="00003"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="FinalFantasy13-2" platform="PS3" country="EUR">
+    <title>Final Fantasy XIII-2</title>
+    <ps_code prefix="BLES" suffix="01269"/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
   <game name="Flow" platform="PS3" country="USA">
     <title>Flow</title>
     <ps_code prefix="NPUA" suffix="80001"/>
@@ -70,6 +106,11 @@
     <title>Flower</title>
     <ps_code prefix="NPUA" suffix="80083"/>
     <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Flower" platform="PS3" country="EUR">
+    <title>Flower</title>
+    <ps_code prefix="NPEA" suffix="00094"/>
+    <contributer>AdmiringWorm</contributer>
   </game>
   <game name="Folklore" platform="PS3" country="USA">
     <title>Folklore</title>
@@ -81,14 +122,44 @@
     <ps_code prefix="BCUS" suffix="98132"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="Ico" platform="PS3" country="USA">
+    <title>Ico</title>
+    <ps_code prefix="BCUS" suffix="98259"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="inFamous" platform="PS3" country="USA">
     <title>inFamous</title>
     <ps_code prefix="BCUS" suffix="98119"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="InFamous" platform="PS3" country="EUR">
+    <title>inFamous</title>
+    <ps_code prefix="BCES" suffix="00609"/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="Jak2" platform="PS3" country="USA">
+    <title>Jak II</title>
+    <ps_code prefix="BCUS" suffix="98281"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Jak3" platform="PS3" country="USA">
+    <title>Jak 3</title>
+    <ps_code prefix="BCUS" suffix="98281"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="JakAndDaxterPrecursorLegacy" platform="PS3" country="USA">
+    <title>Jak and Daxter: The Precursor Legacy</title>
+    <ps_code prefix="BCUS" suffix="98281"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="Jeopardy" platform="PS3" country="USA">
     <title>Jeopardy!</title>
     <ps_code prefix="NPUA" suffix="80227"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Journey" platform="PS3" country="USA">
+    <title>Journey</title>
+    <ps_code prefix="NPUA" suffix="80275"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="Lemmings" platform="PS3" country="USA">
@@ -101,14 +172,50 @@
     <ps_code prefix="NPUB" suffix="30048"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="MassEffect2" platform="PS3" country="USA">
+    <title>Mass Effect 2</title>
+    <ps_code prefix="BLUS" suffix="30650"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="MirrorsEdge" platform="PS3" country="USA">
     <title>Mirror's Edge</title>
     <ps_code prefix="BLUS" suffix="30179"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="MortalKombatArcadeKollection" platform="PS3" country="USA">
+    <title>Mortal Combat: Arcade Kollection</title>
+    <ps_code prefix="NPUB" suffix="30468"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Peggle" platform="PS3" country="USA">
+    <title>Peggle</title>
+    <ps_code prefix="NPUA" suffix="30005"/>
+    <comment>Includes the Peggle Nights PS3 addon</comment>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="PrinceOfPersia2008" platform="PS3" country="USA">
     <title>Prince of Persia (2008)</title>
     <ps_code prefix="BLUS" suffix="30214"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="PrinceOfPersiaForgottenSands" platform="PS3" country="USA">
+    <title>Prince of Persia: The Forgotten Sands</title>
+    <ps_code prefix="BLUS" suffix="30401"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="PrinceOfPersiaSandsOfTime" platform="PS3" country="USA">
+    <title>Prince of Persia: The Sands of Time</title>
+    <ps_code prefix="BLUS" suffix="30754"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="PrinceOfPersiaTwoThrones" platform="PS3" country="USA">
+    <title>Prince of Persia: The Two Thrones</title>
+    <ps_code prefix="BLUS" suffix="30754"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="PrinceOfPersiaWarriorWithin" platform="PS3" country="USA">
+    <title>Prince of Persia: Warrior Within</title>
+    <ps_code prefix="BLUS" suffix="30754"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="RagDollKungFuFistsOfPlastic" platform="PS3" country="USA">
@@ -151,9 +258,25 @@
     <ps_code prefix="NPUA" suffix="80228"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="ShadowOfTheColossus" platform="PS3" country="USA">
+    <title>Shadow of the Colossus</title>
+    <ps_code prefix="BCUS" suffix="98259"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="Shatter" platform="PS3" country="USA">
     <title>Shatter</title>
     <ps_code prefix="NPUB" suffix="30091"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="SilentHill2GreatestHits" platform="PS3" country="USA">
+    <title>Silent Hill 2</title>
+    <ps_code prefix="BLUS" suffix="30810"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="SilentHill3" platform="PS3" country="USA">
+    <title>Silent Hill 3</title>
+    <ps_code prefix="BLUS" suffix="30810"/>
+    <ps_code prefix="BLUS" suffix="30810"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="SilentHillHomecoming" platform="PS3" country="USA">
@@ -171,6 +294,23 @@
     <ps_code prefix="NPUA" suffix="80068"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="TombRaiderAnniversary" platform="PS3" country="USA">
+    <title>Tomb Raider: Anniversary</title>
+    <ps_code prefix="BLUS" suffix="30718"/>
+    <ps_code prefix="BLUS" suffix="30718"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="TombRaiderLegend" platform="PS3" country="USA">
+    <title>Tomb Raider: Legend</title>
+    <ps_code prefix="BLUS" suffix="30718"/>
+    <ps_code prefix="BLUS" suffix="30718"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="TombRaiderUnderworld" platform="PS3" country="USA">
+    <title>Tomb Raider: Underworld</title>
+    <ps_code prefix="BLUS" suffix="30718"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="UltimateAlliance" platform="PS3" country="USA">
     <title>Ultimate Alliance</title>
     <ps_code prefix="BLUS" suffix="30010"/>
@@ -180,6 +320,11 @@
     <title>Uncharted: Drake's Fortune</title>
     <ps_code prefix="BCUS" suffix="98103"/>
     <contributer>SanMadJack</contributer>
+  </game>
+  <game name="UnchartedDrakesFortune" platform="PS3" country="EUR">
+    <title>Uncharted: Drake's Fortune</title>
+    <ps_code prefix="BCES" suffix="00065"/>
+    <contributer>AdmiringWorm</contributer>
   </game>
   <game name="UnrealTournament3" platform="PS3" country="USA">
     <title>Unreal Tournament III</title>
@@ -191,6 +336,16 @@
     <ps_code prefix="BLUS" suffix="30196"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="ValkyriaChronicles" platform="PS3" country="EUR">
+    <title>Valkyria Chronicles</title>
+    <ps_code prefix="BLES" suffix="00372"/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="Wet" platform="PS3" country="USA">
+    <title>Wet</title>
+    <ps_code prefix="BLUS" suffix="30403"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="WheelOfFortune" platform="PS3" country="USA">
     <title>Wheel of Fortune</title>
     <ps_code prefix="NPUA" suffix="80137"/>
@@ -198,6 +353,7 @@
   </game>
   <game name="Wolfenstein3D" platform="PS3" country="USA">
     <title>Wolfenstein 3D</title>
+    <ps_code prefix="NPUB" suffix="30074"/>
     <ps_code prefix="NPUB" suffix="30074"/>
     <contributer>SanMadJack</contributer>
   </game>

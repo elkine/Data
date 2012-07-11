@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2011-12-25T00:00:00">
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T03:06:27">
   <!--This file contains games that are for the DOS platform. Most of these make use of DOSBOX for their installs.-->
   <game name="AloneInTheDark" platform="DOS">
     <title>Alone in the Dark</title>
@@ -85,6 +85,12 @@
     <save path="SAVE*"/>
     <contributer>Jetsetlemming</contributer>
   </game>
+  <game name="FullThrottle" platform="DOS">
+    <title>Full Throttle</title>
+    <location_path environment_variable="installlocation" path="THROTTLE"/>
+    <save filename="SAVEGAME.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="Ishar" platform="DOS">
     <title>Ishar: Legend of the Fortress</title>
     <location_path environment_variable="installlocation" path="GOG.com\Ishar Compilation\Ishar - Legend of the Fortress"/>
@@ -117,12 +123,84 @@
     <save filename="SAVE?.ITD"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="KingsQuest" platform="DOS">
+    <title>King's Quest</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Kings Quest 1-2-3\Kings Quest 1"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ1" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 1 2 3\King's Quest\King's Quest.lnk" append="Kings Quest 1" detract="DOSBOX"/>
+    <save filename="KQ1SG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="KingsQuest2" platform="DOS">
+    <title>King's Quest II: Romancing the Throne</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Kings Quest 1-2-3\Kings Quest 2"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ2" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 1 2 3\King's Quest 2\King's Quest II - Romancing the Throne.lnk" append="Kings Quest 2" detract="DOSBOX"/>
+    <save filename="KQ2SG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="KingsQuest3" platform="DOS">
+    <title>King's Quest III: To Heir is Human</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Kings Quest 1-2-3\Kings Quest 3"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ3" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 1 2 3\King's Quest 3\King's Quest III - To Heir is Human.lnk" append="Kings Quest 3" detract="DOSBOX"/>
+    <save filename="KQ3SG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="KingsQuest4" platform="DOS">
+    <title>King's Quest 4: The Perils of Rosella</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Kings Quest 4-5-6\Kings Quest 4"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ4" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 4-5-6\King's Quest 4 - The Perils of Rosella\King's Quest 4 - The Perils of Rosella.lnk" append="Kings Quest 4" detract="DOSBOX"/>
+    <save filename="KQ4SG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="KingsQuest5" platform="DOS">
+    <title>King's Quest 5: Absence Makes the Heart Go Yonder</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Kings Quest 4-5-6\Kings Quest 5"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ5" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 4-5-6\King's Quest 5 - Absence Makes the Heart Go Yonder\King's Quest 5 - Absence Makes the Heart Go Yonder.lnk" append="Kings Quest 5" detract="DOSBOX"/>
+    <save filename="KQ5SG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="KingsQuest6" platform="DOS">
+    <title>King's Quest 6: Heir Today, Gone Tomorrow</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Kings Quest 4-5-6\Kings Quest 6"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ6" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 4-5-6\King's Quest 6 - Heir Today, Gone Tomorrow\King's Quest 6 - Heir Today, Gone Tomorrow.lnk" append="Kings Quest 6" detract="DOSBOX"/>
+    <save filename="KQ6SG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="KingsQuest7" platform="DOS">
+    <title>King's Quest 7: The Princeless Bride</title>
+    <location_path environment_variable="installlocation" path="GOG.com\KQ78\KQ7"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ7" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\King's Quest 7-8\King's Quest 7 - The Princeless Bride\King's Quest 7 - The Princeless Bride.lnk" append="KQ7" detract="DOSBOX"/>
+    <save filename="KQ7CDSG.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="LastExpress" platform="DOS">
     <title>The Last Express</title>
     <location_path environment_variable="installlocation" path="GOG.com\The Last Express"/>
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGTHELASTEXPRESS" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\The Last Express\The Last Express.lnk" detract="DOSBOX"/>
     <save filename="BLUE.EGG"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="LittleBigAdventure" platform="DOS">
+    <title>Little Big Adventure</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Little Big Adventure"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGLBA" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\Little Big Adventure\Little Big Adventure.lnk" detract="DOSBOX"/>
+    <save filename="*.LBA"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="LittleBigAdventure2" platform="DOS">
+    <title>Little Big Adventure 2</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Little Big Adventure 2"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGLBA2" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\Little Big Adventure 2\Little Big Adventure.lnk 2" detract="DOSBOX"/>
+    <save path="SAVE"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="MartianMemorandum" platform="DOS">
@@ -173,6 +251,14 @@
     <location_shortcut shortcut="Programs\GOG.com\Megarace\Megarace 2\Megarace 2.lnk" append="Megarace 2" detract="DOSBOX"/>
     <save path="TEXTE" filename="*.SAV"/>
     <save filename="HALL.DAT" type="Statistics"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Normality" platform="DOS">
+    <title>Normality</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Normality"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGNORMALITY" value="SAVEGAMEFOLDER"/>
+    <location_shortcut shortcut="Programs\GOG.com\Normality\Normality.lnk" append="Normality" detract="DOSBOX"/>
+    <save path="SAVEGAME"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="OneUnitWholeBlood" platform="DOS">
@@ -278,6 +364,12 @@
     <save filename="*.SAV"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="SamAndMaxHitTheRoad" platform="DOS">
+    <title>Sam &amp; Max Hit The Road</title>
+    <location_path environment_variable="installlocation" path="SAMNMAX.CD"/>
+    <save filename="SAVEGAME.*"/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="ShatteredSteel" platform="DOS">
     <title>Shattered Steel</title>
     <location_path environment_variable="installlocation" path="GOG.com\Shattered Steel"/>
@@ -359,6 +451,25 @@
     <save filename="STAR*.SAV"/>
     <save filename="FLEET*.SAV" type="Fleets"/>
     <save filename="LEGEND.INI" type="Settings"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Starflight" platform="DOS">
+    <title>Starflight</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Starflight 1 and 2\Starflight 1\STARFLT"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGSTARFLIGHT1" value="PATH" append="STARFLT"/>
+    <location_shortcut shortcut="Programs\GOG.com\Starflight 1 and 2\Starflight 1\Starflight 1.lnk" append="Starflight 1\STARFLT" detract="DOSBOX"/>
+    <save path="PLAY" filename="STAR?.COM"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Starflight2" platform="DOS">
+    <title>Starflight 2</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Starflight 1 and 2\Starflight 2"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGSTARFLIGHT2" value="PATH"/>
+    <location_shortcut shortcut="Programs\GOG.com\Starflight 1 and 2\Starflight 2\Starflight 2.lnk" append="Starflight 2" detract="DOSBOX"/>
+    <save filename="STAR*.COM"/>
+    <save filename="GAME.*"/>
+    <save filename="LASTSAVE.*"/>
+    <save filename="ORIGINAL.*"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="StarWarsDarkForces" platform="DOS">
