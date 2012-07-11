@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T02:58:03">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T16:24:58">
   <!--This file contains PSP (PlayStation Portable) games-->
   <game name="BraveStoryNewTraveler" platform="PSP" country="USA">
     <title>Brave Story: New Traveler</title>
@@ -71,15 +71,15 @@
     <ps_code prefix="ULES" suffix="00043"/>
     <contributer>duncans_pumpkin</contributer>
   </game>
-  <game name="MetalGearAcid" platform="PSP" country="USA">
-    <title>Metal Gear Ac!d</title>
-    <ps_code prefix="ULUS" suffix="10006"/>
-    <contributer>SanMadJack</contributer>
-  </game>
   <game name="MetalGearAcid" platform="PSP" country="EUR">
     <title>Metal Gear Ac!d</title>
     <ps_code prefix="ULES" suffix="00008"/>
     <contributer>duncans_pumpkin</contributer>
+  </game>
+  <game name="MetalGearAcid" platform="PSP" country="USA">
+    <title>Metal Gear Ac!d</title>
+    <ps_code prefix="ULUS" suffix="10006"/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="MetalGearAcid2" platform="PSP" country="EUR">
     <title>Metal Gear Ac!d 2</title>

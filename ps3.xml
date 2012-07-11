@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T03:00:11">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T16:24:57">
   <!--This file contains PlayStation 3 games-->
   <game name="AssassinsCreed" platform="PS3" country="USA">
     <title>Assassin's Creed</title>
@@ -102,15 +102,15 @@
     <ps_code prefix="NPUA" suffix="80001"/>
     <contributer>SanMadJack</contributer>
   </game>
-  <game name="Flower" platform="PS3" country="USA">
-    <title>Flower</title>
-    <ps_code prefix="NPUA" suffix="80083"/>
-    <contributer>SanMadJack</contributer>
-  </game>
   <game name="Flower" platform="PS3" country="EUR">
     <title>Flower</title>
     <ps_code prefix="NPEA" suffix="00094"/>
     <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="Flower" platform="PS3" country="USA">
+    <title>Flower</title>
+    <ps_code prefix="NPUA" suffix="80083"/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="Folklore" platform="PS3" country="USA">
     <title>Folklore</title>
@@ -127,15 +127,15 @@
     <ps_code prefix="BCUS" suffix="98259"/>
     <contributer>SanMadJack</contributer>
   </game>
+  <game name="inFamous" platform="PS3" country="EUR">
+    <title>inFamous</title>
+    <ps_code prefix="BCES" suffix="00609"/>
+    <contributer>AdmiringWorm</contributer>
+  </game>
   <game name="inFamous" platform="PS3" country="USA">
     <title>inFamous</title>
     <ps_code prefix="BCUS" suffix="98119"/>
     <contributer>SanMadJack</contributer>
-  </game>
-  <game name="InFamous" platform="PS3" country="EUR">
-    <title>inFamous</title>
-    <ps_code prefix="BCES" suffix="00609"/>
-    <contributer>AdmiringWorm</contributer>
   </game>
   <game name="Jak2" platform="PS3" country="USA">
     <title>Jak II</title>
@@ -268,7 +268,7 @@
     <ps_code prefix="NPUB" suffix="30091"/>
     <contributer>SanMadJack</contributer>
   </game>
-  <game name="SilentHill2GreatestHits" platform="PS3" country="USA">
+  <game name="SilentHill2" platform="PS3" country="USA">
     <title>Silent Hill 2</title>
     <ps_code prefix="BLUS" suffix="30810"/>
     <contributer>SanMadJack</contributer>
@@ -316,30 +316,30 @@
     <ps_code prefix="BLUS" suffix="30010"/>
     <contributer>SanMadJack</contributer>
   </game>
-  <game name="UnchartedDrakesFortune" platform="PS3" country="USA">
-    <title>Uncharted: Drake's Fortune</title>
-    <ps_code prefix="BCUS" suffix="98103"/>
-    <contributer>SanMadJack</contributer>
-  </game>
   <game name="UnchartedDrakesFortune" platform="PS3" country="EUR">
     <title>Uncharted: Drake's Fortune</title>
     <ps_code prefix="BCES" suffix="00065"/>
     <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="UnchartedDrakesFortune" platform="PS3" country="USA">
+    <title>Uncharted: Drake's Fortune</title>
+    <ps_code prefix="BCUS" suffix="98103"/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="UnrealTournament3" platform="PS3" country="USA">
     <title>Unreal Tournament III</title>
     <ps_code prefix="BLUS" suffix="30086"/>
     <contributer>SanMadJack</contributer>
   </game>
-  <game name="ValkyriaChronicles" platform="PS3" country="USA">
-    <title>Valkyria Chronicles</title>
-    <ps_code prefix="BLUS" suffix="30196"/>
-    <contributer>SanMadJack</contributer>
-  </game>
   <game name="ValkyriaChronicles" platform="PS3" country="EUR">
     <title>Valkyria Chronicles</title>
     <ps_code prefix="BLES" suffix="00372"/>
     <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="ValkyriaChronicles" platform="PS3" country="USA">
+    <title>Valkyria Chronicles</title>
+    <ps_code prefix="BLUS" suffix="30196"/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="Wet" platform="PS3" country="USA">
     <title>Wet</title>

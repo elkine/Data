@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T03:00:53">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T16:24:57">
   <!--This file contains PlayStation 2 games-->
   <game name="AlterEcho" platform="PS2" country="USA">
     <title>Alter Echo</title>
@@ -29,6 +29,7 @@
   <game name="DeusEx" platform="PS2" country="USA">
     <title>Deus Ex: The Conspiracy</title>
     <ps_code prefix="SLUS" suffix="20111"/>
+    <comment>The best game EVER! </comment>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="DevilMayCry" platform="PS2" country="USA">
@@ -164,8 +165,8 @@
   </game>
   <game name="MetalGearSolid3Subsistence" platform="PS2" country="USA">
     <title>Metal Gear Solid 3: Subsistence</title>
-    <ps_code prefix="SLUS" suffix="21359"/>
     <ps_code prefix="SLUS" suffix="21243"/>
+    <ps_code prefix="SLUS" suffix="21359"/>
     <contributer>SanMadJack</contributer>
   </game>
   <game name="OkageShadowKing" platform="PS2" country="USA">

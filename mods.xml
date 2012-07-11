@@ -1,4 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-01-14T08:40:15">
-  <!--DEPRECATED, THIS FILE IS NO LONGER USED - This file contained mods for other games , which have all been moved to their respective platform xmls-->
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T16:24:55">
+  <!--This file contains mods for other games, which have all been moved to their respective platform xmls-->
+  <game name="CinematicMod10HL2" platform="Windows">
+    <title>Cinematic Mod 10 (Half-Life 2 Mod)</title>
+    <location_path environment_variable="steamsourcemods" path="FAKEFACTORY_CM10\hl2"/>
+    <save path="SAVE"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="CinematicMod10HL2Ep1" platform="Windows">
+    <title>Cinematic Mod 10 (Half-Life 2: Episode One Mod)</title>
+    <location_path environment_variable="steamsourcemods" path="FAKEFACTORY_CM10\episodic"/>
+    <save path="SAVE"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="CinematicMod10HL2Ep2" platform="Windows">
+    <title>Cinematic Mod 10 (Half-Life 2: Episode Two Mod)</title>
+    <location_path environment_variable="steamsourcemods" path="FAKEFACTORY_CM10\ep2"/>
+    <save path="SAVE"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="Flesh" platform="Windows">
+    <title>Flesh (Half-Life 2 Mod)</title>
+    <location_path environment_variable="steamsourcemods" path="Flesh"/>
+    <save path="SAVE"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="NamelessMod" platform="Windows">
+    <title>The Nameless Mod (Deus Ex Mod)</title>
+    <location_shortcut shortcut="Programs\The Nameless Mod\The Nameless Mod.lnk" detract="System" append="TNM"/>
+    <location_game name="DeusEx" platform="Windows" append="TNM"/>
+    <save path="Save"/>
+    <save path="System" filename="*.ini" type="Settings"/>
+    <contributer>Trestkon</contributer>
+  </game>
+  <game name="ResearchAndDevelopment" platform="Windows">
+    <title>Research and Development (Half-Life 2 Mod)</title>
+    <location_path environment_variable="steamsourcemods" path="Research and Development"/>
+    <save path="SAVE"/>
+    <contributer>SanMadJack</contributer>
+  </game>
+  <game name="TitanXCIX1" platform="Steam">
+    <title>Titan: XCIX - Part 1 (Half-Life 2: Episode Two Mod)</title>
+    <location_path environment_variable="steamsourcemods" path="SurvivorIZ"/>
+    <save path="SAVE"/>
+    <contributer>Arc Angel</contributer>
+  </game>
 </games>

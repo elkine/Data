@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" majorVersion="1" minorVersion="1" date="2012-06-10T02:57:49">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T17:32:34">
   <!--This file contains games whose saves are only compatible with Steam releases of the game-->
   <game name="AlanWake" platform="Steam">
     <title>Alan Wake</title>
@@ -25,6 +25,12 @@
     <save/>
     <contributer>AdmiringWorm</contributer>
   </game>
+  <game name="AndYetItMoves" platform="Steam">
+    <title>And Yet It Moves</title>
+    <location_path environment_variable="appdata" path="Broken Rules\And Yet It Moves Steam"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="AnomalyWarzoneEarth" platform="Steam">
     <title>Anomaly: Warzone Earth</title>
     <location_path environment_variable="steamuserdata" path="91200"/>
@@ -36,6 +42,12 @@
     <location_path environment_variable="steamuserdata" path="107100"/>
     <save/>
     <contributer>Arc Angel</contributer>
+  </game>
+  <game name="BeatHazard" platform="Steam">
+    <title>Beat Hazard</title>
+    <location_path environment_variable="steamuserdata" path="49600"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="Braid" platform="Steam">
     <title>Braid</title>
@@ -159,18 +171,17 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
-  <game name="MidnightClub2" platform="Steam">
-    <title>Midnight Club 2</title>
-    <location_path environment_variable="steamcommon" path="Midnight Club 2\userdata"/>
-    <save/>
-    <ignore path="mp3"/>
-    <contributer>Arc Angel</contributer>
-  </game>
-  <game name="MonkeyIsland2SpecialEditionLeChucksRevenge" platform="Steam">
+  <game name="MonkeyIsland2LeChucksRevengeSpecialEdition" platform="Steam">
     <title>Monkey Island™ 2 Special Edition: LeChuck’s Revenge</title>
     <location_path environment_variable="steamuserdata" path="32460"/>
     <save/>
     <contributer>slake_jones</contributer>
+  </game>
+  <game name="Nimbus" platform="Steam">
+    <title>Nimbus</title>
+    <location_path environment_variable="steamuserdata" path="50000"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
   </game>
   <game name="PaydayTheHeist" platform="Steam">
     <title>Payday: The Heist</title>
@@ -208,6 +219,12 @@
     <save/>
     <contributer>AdmiringWorm</contributer>
   </game>
+  <game name="RockOfAges" platform="Steam">
+    <title>Rock of Ages</title>
+    <location_path environment_variable="steamuserdata" path="22230"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="RunespellOverture" platform="Steam">
     <title>Runespell: Overture</title>
     <location_path environment_variable="steamuserdata" path="102200"/>
@@ -226,19 +243,25 @@
     <save/>
     <contributer>Christian Hamann</contributer>
   </game>
+  <game name="Sequence" platform="Steam">
+    <title>Sequence</title>
+    <location_path environment_variable="steamuserdata" path="200910"/>
+    <save/>
+    <contributer>SanMadJack</contributer>
+  </game>
   <game name="SeriousSam3BFE" platform="Steam">
     <title>Serious Sam 3: BFE</title>
     <location_path environment_variable="steamuserdata" path="41070\local"/>
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
-  <game name="SeriousSamHD1" platform="Steam">
+  <game name="SeriousSamTheFirstEncounterHD" platform="Steam">
     <title>Serious Sam HD: The First Encounter</title>
     <location_path environment_variable="steamuserdata" path="41000\local\SeriousSamHD"/>
     <save/>
     <contributer>SanMadJack</contributer>
   </game>
-  <game name="SeriousSamHD2" platform="Steam">
+  <game name="SeriousSamTheSecondEncounterHD" platform="Steam">
     <title>Serious Sam HD: The Second Encounter</title>
     <location_path environment_variable="steamuserdata" path="41010\local\SeriousSamHD_TSE"/>
     <save/>
@@ -261,12 +284,6 @@
     <location_path environment_variable="steamuserdata" path="204060"/>
     <save/>
     <contributer>SanMadJack</contributer>
-  </game>
-  <game name="TitanXCIX1" platform="Steam">
-    <title>Titan: XCIX - Part 1</title>
-    <location_path environment_variable="steamsourcemods" path="SurvivorIZ"/>
-    <save path="SAVE"/>
-    <contributer>Arc Angel</contributer>
   </game>
   <game name="Trine" platform="Steam">
     <title>Trine</title>
