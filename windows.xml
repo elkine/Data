@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T17:32:50">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-18T15:05:34">
   <!--This file contains game for Microsoft Windows-->
   <game name="18WheelsOfSteelExtremeTrucker" platform="Windows">
     <title>18 Wheels of Steel: Extreme Trucker</title>
@@ -47,7 +47,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Advent Rising\Advent Rising.lnk" detract="System"/>
     <save path="System\Saves"/>
     <save path="System" filename="My*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AfterfallInsanity" platform="Windows">
     <title>Afterfall: Insanity</title>
@@ -79,14 +79,14 @@
     <location_shortcut shortcut="Programs\Microsoft Games\Age of Mythology\Age of Mythology.lnk"/>
     <save path="savegame" filename="*.rec"/>
     <save path="savegame" filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AgeOfMythologyTheTitansExpansion" platform="Windows">
     <title>Age of Mythology: The Titans Expansion</title>
     <location_path environment_variable="userdocuments" path="My Games\Age of Mythology"/>
     <save path="Savegame" filename="*.rcx"/>
     <save path="Savegame" filename="*.svx"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AgeOfWonders" platform="Windows">
     <title>Age of Wonders</title>
@@ -97,7 +97,7 @@
     <location_shortcut shortcut="Programs\Age of Wonders\Age of Wonders.lnk"/>
     <location_shortcut shortcut="Programs\GOG.com\Age of Wonders\Age of Wonders.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AIMRacing" platform="Windows">
     <title>A.I.M. Racing</title>
@@ -106,19 +106,25 @@
     <ignore path="My Music"/>
     <contributer>AdmiringWorm</contributer>
   </game>
+  <game name="AIWarFleetCommand" platform="Windows">
+    <title>AI War: Fleet Command</title>
+    <location_path environment_variable="steamcommon" path="ai war fleet command"/>
+    <save path="Save"/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="AlanWakeGoG" platform="Windows">
     <title>Alan Wake GoG</title>
     <location_path environment_variable="userdocuments" path="Remedy\AlanWake_GOG_Version"/>
     <save path="savegames"/>
     <save filename="*" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AlanWakesAmericanNightmareGoG" platform="Windows">
     <title>Alan Wake's American Nightmare GoG</title>
     <location_path environment_variable="userdocuments" path="Remedy\AmericanNightmare_GOG_Version"/>
     <save path="savegames"/>
     <save filename="*" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Alice" platform="Windows">
     <title>American McGee's Alice</title>
@@ -126,7 +132,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Alice.exe" value="Path"/>
     <save path="Base\save"/>
     <save path="Base" filename="*.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AliceMadnessReturns" platform="Windows">
     <title>Alice: Madness Returns</title>
@@ -160,7 +166,7 @@
     <title>Alien Shooter: Vengeance</title>
     <location_path environment_variable="userdocuments" path="AlienShooter2 Saves"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AlienShooter2Reloaded" platform="Windows">
     <title>Alien Shooter 2: Reloaded</title>
@@ -172,7 +178,7 @@
     <title>Aliens vs. Predator Classic</title>
     <location_path environment_variable="localappdata" path="Rebellion\AvP Classic"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AliensVsPredator2" platform="Windows">
     <title>Aliens vs. Predator 2</title>
@@ -182,7 +188,7 @@
     <location_shortcut shortcut="Programs\Fox Interactive\Aliens vs. Predator 2\Aliens vs. Predator 2.lnk"/>
     <save path="Profiles"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AliensVsPredator2010" platform="Windows">
     <title>Aliens vs. Predator (2010)</title>
@@ -198,7 +204,7 @@
     <location_shortcut shortcut="Programs\Fox Interactive\Aliens versus Predator 2 - Primal Hunt\Aliens versus Predator 2 - Primal Hunt.lnk"/>
     <save path="Profiles"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AloneInTheDarkTheNewNightmare" platform="Windows">
     <title>Alone in the Dark: The New Nightmare</title>
@@ -206,7 +212,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGALONEINTHEDARK" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Alone in the Dark - The New Nightmare\Alone in the Dark - The New Nightmare.lnk"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AlphaCentauri" platform="Windows">
     <title>Sid Meier's Alpha Centauri</title>
@@ -221,7 +227,7 @@
     <save path="saves"/>
     <save path="scenarios" modified_after="2000-01-01T00:00:00" type="Scenarios"/>
     <save filename="Alpha Centauri.Ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AlphaProtocol" platform="Windows">
     <title>Alpha Protocol</title>
@@ -239,7 +245,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microfolie's\L'Amerzone\1.0" value="source"/>
     <location_shortcut shortcut="Programs\GOG.com\AmerZone - The Explorer's Legacy\AmerZone - The Explorer's Legacy.lnk"/>
     <save filename="Saved_*.bin"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AmnesiaTheDarkDescent" platform="Windows">
     <title>Amnesia: The Dark Descent</title>
@@ -254,7 +260,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Eidos Interactive\Anachronox" value="SourcePath"/>
     <location_shortcut shortcut="Programs\Eidos Interactive\Anachronox\Anachronox.lnk"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AngelsOnline" platform="Windows">
     <title>Angels Online</title>
@@ -293,14 +299,14 @@
     <title>Aquanox</title>
     <location_path environment_variable="appdata" path="AquaNox"/>
     <save filename="player*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Aquanox2" platform="Windows">
     <title>Aquanox 2: Revelation</title>
     <location_path environment_variable="userdocuments" path="AquaNox2"/>
     <save filename="*.an2"/>
     <save filename="Config.txt" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Aquaria" platform="Windows">
     <title>Aquaria</title>
@@ -332,7 +338,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Troika\Arcanum" value="installed_to"/>
     <location_shortcut shortcut="Programs\GOG.com\Arcanum Of Steamworks and Magick Obscura\Arcanum Of Steamworks and Magick Obscura.lnk"/>
     <save path="modules\Arcanum\Save" filename="*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ARES" platform="Windows">
     <title>A.R.E.S</title>
@@ -354,6 +360,18 @@
     <save/>
     <contributer>Arc Angel</contributer>
   </game>
+  <game name="Armada2526" platform="Windows">
+    <title>Armada 2526</title>
+    <location_path environment_variable="userdocuments" path="My Games\Armada 2526"/>
+    <save filename="*.2526sav"/>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="Armada2526Supernova" platform="Windows">
+    <title>Armada 2526: Supernocva</title>
+    <location_game name="Armada2526" platform="Windows" append="Supernova"/>
+    <save filename="*.2526sav"/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="ArmedForcesCorps" platform="Windows">
     <title>Armed Forces Corps</title>
     <location_path environment_variable="public" path="Documents\City Interactive\Armed Forces Corps"/>
@@ -367,7 +385,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGARXFATALIS" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Arx Fatalis\Arx Fatalis.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="AssassinsCreed" platform="Windows">
     <title>Assassin's Creed</title>
@@ -461,8 +479,8 @@
     <save path="Characters" type="Characters"/>
     <save path="Save"/>
     <save filename="Baldur.ini" type="Settings"/>
-    <comment>Also archives expansion saves</comment>
-    <contributer>SanMadJack</contributer>
+    <comment>Includes expansion saves</comment>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BaldursGate2" platform="Windows">
     <title>Baldur's Gate II</title>
@@ -473,8 +491,8 @@
     <save path="characters" type="Characters"/>
     <save path="save"/>
     <save filename="baldur.ini" type="Settings"/>
-    <comment>Also archives expansion saves</comment>
-    <contributer>SanMadJack</contributer>
+    <comment>Includes expansion saves</comment>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Ball" platform="Windows">
     <title>The Ball</title>
@@ -486,7 +504,7 @@
     <title>Bastion</title>
     <location_path environment_variable="savedgames" path="Bastion" platform_version="Vista"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BatmanArkhamAsylum" platform="Windows">
     <title>Batman: Arkham Asylum</title>
@@ -533,7 +551,7 @@
     <title>The Battle For Middle Earth II</title>
     <location_path environment_variable="appdata" path="My Battle for Middle-earth(tm) II Files"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BattleLA" platform="Windows">
     <title>Battle: Los Angeles</title>
@@ -565,7 +583,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Bejeweled Deluxe 1.87" value="UninstallString" platform_version="XP"/>
     <identifier path="userdata"/>
     <save path="userdata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BenThereDanThat" platform="Windows">
     <title>Ben There, Dan That!</title>
@@ -574,7 +592,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3CD921DC-FE10-404C-99DB-FA57A6FCB32E}_is1" value="InstallLocation"/>
     <location_shortcut shortcut="Programs\Ben There Dan That\Ben There Dan That.lnk"/>
     <save filename="agssave.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BetOnSoldierBloodSport" platform="Windows">
     <title>Bet on Soldier: Blood Sport</title>
@@ -597,7 +615,7 @@
     <save filename="*.sav"/>
     <save filename="sally.idx"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BionicCommandoRearmed" platform="Windows">
     <title>Bionic Commando Rearmed</title>
@@ -610,7 +628,7 @@
     <title>BioShock</title>
     <location_path environment_variable="userdocuments" path="Bioshock"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BioShock2" platform="Windows">
     <title>BioShock 2</title>
@@ -623,7 +641,7 @@
     <location_path environment_variable="installlocation" path="Games\Black And White"/>
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Black.exe" value="Path"/>
     <save path="Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BlacklightTangoDown" platform="Windows">
     <title>Blacklight: Tango Down</title>
@@ -650,14 +668,14 @@
     <location_path environment_variable="userdocuments" path="My Saved Games\Blackwell Convergence" platform_version="XP"/>
     <save/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BlackwellDeception" platform="Windows">
     <title>Blackwell Deception</title>
     <location_path environment_variable="savedgames" path="Blackwell Deception" platform_version="Vista"/>
     <location_path environment_variable="userdocuments" path="My Saved Games\Blackwell Deception" platform_version="XP"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BlackwellLegacy" platform="Windows">
     <title>The Blackwell Legacy</title>
@@ -666,7 +684,7 @@
     <location_path environment_variable="userdocuments" path="My Saved Games\Blackwell Legacy v1.7" platform_version="XP"/>
     <save/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BlackwellUnbound" platform="Windows">
     <title>Blackwell Unbound</title>
@@ -675,14 +693,14 @@
     <location_path environment_variable="userdocuments" path="My Saved Games\Blackwell Unbound" platform_version="XP"/>
     <save/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BladeRunner" platform="Windows">
     <title>Blade Runner</title>
     <location_path environment_variable="installlocation" path="WESTWOOD\BLADE"/>
     <location_shortcut shortcut="Programs\Westwood\Blade Runner\Blade Runner.lnk"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Blood2TheChosen" platform="Windows">
     <title>Blood II: The Chosen</title>
@@ -691,7 +709,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Monolith Productions\Blood2\1.0" value="WorkingDirectory"/>
     <location_shortcut shortcut="Programs\GOG.com\Blood II - The Chosen\Blood II - The Chosen.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BloodBowl" platform="Windows">
     <title>Blood Bowl</title>
@@ -710,7 +728,7 @@
     <ignore path="Scripts"/>
     <save path="Screenshots" type="Screenshots"/>
     <save filename="Config.xml" type="Settings"/>
-    <comment>Includes Blood Bowl Dark Elves Edition as well.</comment>
+    <comment>Includes Blood Bowl Dark Elves Edition as well</comment>
     <contributer>AvvA</contributer>
   </game>
   <game name="BloodBowlLegendaryEdition" platform="Windows">
@@ -739,7 +757,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Terminal Reality\BloodRayne" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\BloodRayne 1\BloodRayne 1.lnk"/>
     <save path="savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BloodRayne2" platform="Windows">
     <title>BloodRayne 2</title>
@@ -747,7 +765,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGBLOODRAYNE2" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\BloodRayne 2\BloodRayne 2.lnk"/>
     <save path="savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BloodStone007" platform="Windows">
     <title>Blood Stone 007</title>
@@ -759,7 +777,7 @@
     <title>Blur</title>
     <location_path environment_variable="appdata" path="bizarre creations\blur"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BookwormAdventureDeluxe" platform="Windows">
     <title>Bookworm Adventures Deluxe</title>
@@ -779,13 +797,13 @@
     <title>Botanicula</title>
     <location_path environment_variable="userdocuments" path="BotaniculaSaves"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Braid" platform="Windows">
     <title>Braid</title>
     <location_path environment_variable="appdata" path="Braid"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BreathOfDeath7" platform="Windows">
     <title>Breath of Death VII: The Beginning</title>
@@ -799,14 +817,14 @@
     <title>Broken Sword: The Shadow of the Templars - The Director's Cut</title>
     <location_path environment_variable="userdocuments" path="Broken Sword - Director's Cut"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BrokenSword2Remastered" platform="Windows">
     <title>Broken Sword II: The Smoking Mirror - Remastered</title>
     <location_path environment_variable="userdocuments" path="Broken Sword II - Remastered"/>
     <save filename="BS2_save*"/>
     <save filename="settings.bin" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BrokenSword3TheSleepingDragon" platform="Windows">
     <title>Broken Sword: The Sleeping Dragon</title>
@@ -814,13 +832,13 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGBROKENSWORD3" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Broken Sword - The Sleeping Dragon\Broken Sword - The Sleeping Dragon.lnk"/>
     <save path="saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="BrokenSword4TheAngelOfDeath" platform="Windows">
     <title>Broken Sword: The Angel of Death</title>
     <location_path environment_variable="userdocuments" path="Broken Sword - The Angel of Death"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Bulletstorm" platform="Windows">
     <title>Bulletstorm</title>
@@ -874,7 +892,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Activision\Call of Duty 4" value="InstallPath"/>
     <location_shortcut shortcut="Programs\Activision\Call of Duty(R) 4 - Modern Warfare(TM)\Call of Duty(R) 4 - Modern Warfare(TM) Singleplayer.lnk"/>
     <save path="players\profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CallOfDutyBlackOps" platform="Windows">
     <title>Call of Duty: Black Ops</title>
@@ -931,13 +949,13 @@
     <location_registry root="local_machine" key="SOFTWARE\Sunstorm Interactive\Carnivores Cityscape" value="Path"/>
     <location_shortcut shortcut="Programs\Carnivores Cityscape\Carnivores Cityscape.lnk" detract="bin"/>
     <save path="Players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CaveStoryPlus" platform="Windows">
     <title>Cave Story+</title>
     <location_path environment_variable="steamcommon" path="cave story+"/>
     <save filename="Profile.dat" type="Profile"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Ceville" platform="Windows">
     <title>Ceville</title>
@@ -954,7 +972,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Chaser\Chaser.lnk"/>
     <save path="Save"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Chime" platform="Windows">
     <title>Chime</title>
@@ -978,13 +996,13 @@
     <title>The Chronicles of Riddick: Assault on Dark Athena</title>
     <location_path environment_variable="appdata" path="Atari\The Chronicles of Riddick - Assault on Dark Athena"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ChroniclesOfRiddickEscapeFromButcherBay" platform="Windows">
     <title>The Chronicles of Riddick: Escape From Butcher Bay</title>
     <location_path environment_variable="appdata" path="Starbreeze\Riddick"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CitiesInMotion" platform="Windows">
     <title>Cities in Motion</title>
@@ -994,26 +1012,32 @@
     <ignore filename="*.txt" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
   </game>
+  <game name="CitiesXL" platform="Windows">
+    <title>Cities XL</title>
+    <location_path environment_variable="localappdata" path="Monte Cristo\Cities XL"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="Civilization" platform="Windows">
     <title>Sid Meier's Civilization</title>
     <location_path environment_variable="installlocation" path="Sid Meier's Civilization Chronicles\Sid Meier's Civilization"/>
     <location_shortcut shortcut="Programs\Firaxis Games\Sid Meier's Civilization Chronicles\Launch Sid Meier's Civilization.lnk"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization2MultiplayerGold" platform="Windows">
     <title>Sid Meier's Civilization II: Multiplayer Gold</title>
     <location_path environment_variable="installlocation" path="Sid Meier's Civilization Chronicles\Sid Meier's Civilization II Multiplayer Gold"/>
     <location_shortcut shortcut="Programs\Firaxis Games\Sid Meier's Civilization Chronicles\Launch Sid Meier's Civilization II - Multiplayer Gold.lnk"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization2TestOfTime" platform="Windows">
     <title>Sid Meier's Civilization II: Test of Time</title>
     <location_path environment_variable="installlocation" path="Sid Meier's Civilization Chronicles\Civilization II Test of Time"/>
     <location_shortcut shortcut="Programs\Firaxis Games\Sid Meier's Civilization Chronicles\Launch Civilization II - Test of Time.lnk"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization3" platform="Windows">
     <title>Sid Meier's Civilization III</title>
@@ -1021,7 +1045,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Infogrames Interactive\Civilization III" value="Install_Path"/>
     <save path="Saves"/>
     <save filename="Civilization3.Ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization3Conquests" platform="Windows">
     <title>Sid Meier's Civilization III: Conquests</title>
@@ -1030,7 +1054,7 @@
     <location_shortcut shortcut="Programs\Firaxis Games\Civilization III Complete Edition\Civilization III Complete Edition.lnk"/>
     <save path="Saves"/>
     <save filename="conquests.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization3PlayTheWorld" platform="Windows">
     <title>Sid Meier's Civilization III: Play The World</title>
@@ -1039,38 +1063,38 @@
     <identifier path="Saves"/>
     <save path="Saves"/>
     <save filename="ptw.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization4" platform="Windows">
     <title>Sid Meier's Civilization IV</title>
     <location_path environment_variable="userdocuments" path="My Games\Sid Meier's Civilization 4"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization4BeyondTheSword" platform="Windows">
     <title>Sid Meier's Civilization IV: Beyond the Sword</title>
     <location_path environment_variable="userdocuments" path="My Games\Beyond the Sword"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization4Colonization" platform="Windows">
     <title>Sid Meier's Civilization IV: Colonization</title>
     <location_path environment_variable="userdocuments" path="My Games\Sid Meier's Civilization IV Colonization"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization4Warlords" platform="Windows">
     <title>Sid Meier's Civilization IV: Warlords</title>
     <location_path environment_variable="userdocuments" path="My Games\Warlords"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Civilization5" platform="Windows">
     <title>Sid Meier's Civilization V</title>
     <location_path environment_variable="userdocuments" path="My Games\Sid Meier's Civilization 5"/>
     <save path="ModdedSaves"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ClassicCarRacing" platform="Windows">
     <title>Classic Car Racing</title>
@@ -1097,13 +1121,13 @@
     <title>Cogs</title>
     <location_path environment_variable="appdata" path="Lazy 8 Studios\Cogs"/>
     <save filename="playerInfo.dat"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Colonization" platform="Windows">
     <title>Sid Meier's Colonization</title>
     <location_path environment_variable="installlocation" path="COLWIN"/>
     <save filename="*.SAV"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CommandAndConquer3KanesWrath" platform="Windows">
     <title>Command &amp; Conquer 3: Kane's Wrath</title>
@@ -1131,7 +1155,7 @@
     <save path="Replays" type="Replays"/>
     <save path="Save"/>
     <save filename="SkirmishStats.ini" type="Statistics"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CommandAndConquerGeneralsZeroHour" platform="Windows">
     <title>Command &amp; Conquer: Generals - Zero Hour</title>
@@ -1162,7 +1186,13 @@
     <save path="Profiles"/>
     <save path="Save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="ConflictDeniedOps" platform="Windows">
+    <title>Conflict Denied Ops</title>
+    <location_path environment_variable="userdocuments" path="Eidos\ConflictDeniedOps"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CorsixTH" platform="Windows">
     <title>Corsix: Theme Hospital</title>
@@ -1176,20 +1206,26 @@
     <location_registry root="local_machine" key="SOFTWARE\Valve\CZero" value="InstallPath" append="czero"/>
     <identifier path="SAVE"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CounterStrikeConditionZeroDeletedScenes" platform="Windows">
     <title>Counter-Strike: Condition Zero: Deleted Scenes</title>
     <location_path environment_variable="steamuser" path="condition zero deleted scenes\czeror"/>
     <identifier path="SAVE"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="CrayonPhysicsDeluxe" platform="Windows">
     <title>Crayon Physics Deluxe</title>
     <location_path environment_variable="appdata" path="Crayon Physics Deluxe"/>
     <save path="My Solutions"/>
     <contributer>slake_jones</contributer>
+  </game>
+  <game name="CrusaderKings2" platform="Windows">
+    <title>Crusader Kings II</title>
+    <location_path environment_variable="userdocuments" path="Paradox Interactive\Crusader Kings 2"/>
+    <save path="save games"/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Cryostasis" platform="Windows">
     <title>Cryostasis</title>
@@ -1199,14 +1235,14 @@
     <location_shortcut shortcut="Programs\GOG.com\Cryostasis\Cryostasis.lnk"/>
     <save path="Data\Save"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Crysis" platform="Windows">
     <title>Crysis</title>
     <location_path environment_variable="userdocuments" path="My Games\Crysis"/>
     <save path="Profiles"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Crysis2" platform="Windows">
     <title>Crysis 2</title>
@@ -1264,7 +1300,7 @@
     <identifier filename="*.cbs"/>
     <save filename="*.cbs"/>
     <comment>Checks for saves in Documents\Cyberstorm and Alt. Save Paths</comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Cyberstorm2" platform="Windows">
     <title>Cyberstorm 2: Corporate Wars</title>
@@ -1273,7 +1309,7 @@
     <identifier filename="*.cbs"/>
     <save filename="*.cbs"/>
     <comment>Checks for saves in Documents\Cyberstorm 2 and Alt. Save Paths</comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Daikatana" platform="Windows">
     <title>Daikatana</title>
@@ -1287,7 +1323,7 @@
     <title>Dangerous High School Girls In Trouble!</title>
     <location_path environment_variable="steamcommon" path="dangerous high school girls in trouble"/>
     <save path="prog\data\Mousechief\RPBG\DHSGiT_v1_0_0"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DarkestOfDays" platform="Windows">
     <title>Darkest Of Days</title>
@@ -1301,13 +1337,13 @@
     <title>Dark Fall II: Lights Out</title>
     <location_path environment_variable="userdocuments" path="Dark Fall 2"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DarkFallTheJournal" platform="Windows">
     <title>Dark Fall: The Journal</title>
     <location_path environment_variable="userdocuments" path="Dark Fall"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DarkHorizon" platform="Windows">
     <title>Dark Horizon</title>
@@ -1323,7 +1359,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Ubisoft\Dark Messiah of Might and Magic" value="Install Location"/>
     <identifier path="mm\SAVE"/>
     <save path="mm\SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Darkness2" platform="Windows">
     <title>The Darkness II</title>
@@ -1371,7 +1407,7 @@
     <title>Darkstar One</title>
     <location_path environment_variable="userdocuments" path="Ascaron Entertainment\Darkstar One"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Darkstone" platform="Windows">
     <title>Darkstone</title>
@@ -1392,6 +1428,7 @@
   <game name="Darwinia" platform="Windows">
     <title>Darwinia</title>
     <location_path environment_variable="savedgames" path="Darwinia" platform_version="Vista"/>
+    <location_path environment_variable="userdocuments" path="Saved Games\Darwinia" platform_version="XP"/>
     <save path="users"/>
     <save filename="preferences.txt" type="Settings"/>
     <save filename="user_input_preferences.txt" type="Settings"/>
@@ -1442,7 +1479,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Demon Stone\Demon Stone.lnk"/>
     <save filename="*.sav"/>
     <save filename="*.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DepthHunter" platform="Windows">
     <title>Depth Hunter</title>
@@ -1463,7 +1500,7 @@
     <save filename="*.SG*"/>
     <save filename="DESCENT.CFG" type="Settings"/>
     <comment>Includes Descent II: The Vertigo Series</comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Descent3" platform="Windows">
     <title>Descent³</title>
@@ -1474,7 +1511,7 @@
     <save filename="*.plt" type="Pilots"/>
     <save path="demo" filename="*.dem" type="Replays"/>
     <save path="savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DescentFreeSpaceTheGreatWar" platform="Windows">
     <title>Descent: FreeSpace - The Great War</title>
@@ -1483,14 +1520,14 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGFREESPACE" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Freespace\Freespace.lnk"/>
     <save path="Players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Desperados" platform="Windows">
     <title>Desperados</title>
     <location_path environment_variable="installlocation" path="Infogrames\Desperados"/>
     <location_registry root="local_machine" key="SOFTWARE\Spellbound Software\Desperados 1.0" value="InstallPath"/>
     <save path="Game\Data\Savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Desperados2" platform="Windows">
     <title>Desperados 2: Cooper's Revenge</title>
@@ -1511,13 +1548,13 @@
     <save path="Save"/>
     <save path="System" filename="*.ini" type="Settings"/>
     <comment>The best game EVER! </comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DeusExInvisibleWar" platform="Windows">
     <title>Deus Ex: Invisible War</title>
     <location_path environment_variable="userdocuments" path="Deus Ex - Invisible War"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Diablo" platform="Windows">
     <title>Diablo</title>
@@ -1533,7 +1570,7 @@
     <location_path environment_variable="installlocation" path="Diablo II"/>
     <location_registry root="local_machine" key="SOFTWARE\Blizzard Entertainment\Diablo II" value="InstallPath"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DiabloHellfire" platform="Windows">
     <title>Diablo: Hellfire</title>
@@ -1547,7 +1584,7 @@
     <title>Dinner Date</title>
     <location_path environment_variable="steamcommon" path="dinner date"/>
     <save path="user"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DiRT" platform="Windows">
     <title>DiRT</title>
@@ -1607,7 +1644,7 @@
     <save path="base\savegames"/>
     <virtualstore override="yes"/>
     <require_detection/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Downfall" platform="Windows">
     <title>Downfall</title>
@@ -1628,7 +1665,7 @@
     <save path="Characters"/>
     <save path="Settings" filename="DragonAge.ini" type="Settings"/>
     <save path="Settings" filename="KeyBindings.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Dragonshard" platform="Windows">
     <title>Dragonshard</title>
@@ -1637,7 +1674,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Dungeons and Dragons - Dragonshard\Dungeons and Dragons - Dragonshard.lnk"/>
     <save path="TriangleMeshes"/>
     <save filename="DND.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DreamfallTheLongestJourney" platform="Windows">
     <title>Dreamfall: The Longest Journey</title>
@@ -1652,7 +1689,7 @@
     <save filename="prefs.dat" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Dreamkiller" platform="Windows">
     <title>Dreamkiller</title>
@@ -1691,7 +1728,7 @@
     <title>Dungeon Defenders</title>
     <location_path environment_variable="steamcommon" path="Dungeon Defenders"/>
     <save path="Binaries\Win32" filename="DunDefHeroes.dun "/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DungeonKeeper" platform="Windows">
     <title>Dungeon Keeper</title>
@@ -1710,7 +1747,7 @@
     <title>Dungeon Keeper II</title>
     <location_path environment_variable="installlocation" path="Bullfrog\Dungeon Keeper II"/>
     <save path="Data\Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DungeonsAndDragonsDaggerdale" platform="Windows">
     <title>Dungeons &amp; Dragons: Daggerdale</title>
@@ -1742,7 +1779,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGEARTH2140" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Earth 2140\Earth 2140.lnk"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Earth2150" platform="Windows">
     <title>Earth 2150</title>
@@ -1751,7 +1788,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Topware\Earth 2150\BaseGame\FileSystem" value="OutputDir"/>
     <location_shortcut shortcut="Programs\GOG.com\Earth 2150 Trilogy\Escape from the Blue Planet\Escape from the Blue Planet.lnk"/>
     <save path="Players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Earth2150LostSouls" platform="Windows">
     <title>Earth 2150: Lost Souls</title>
@@ -1760,7 +1797,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Reality Pump\LostSouls\BaseGame\FileSystem" value="OutputDir"/>
     <location_shortcut shortcut="Programs\GOG.com\Earth 2150 Trilogy\Lost Souls\Lost Souls.lnk"/>
     <save path="Players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Earth2150TheMoonProject" platform="Windows">
     <title>Earth 2150: The Moon Project</title>
@@ -1769,13 +1806,13 @@
     <location_registry root="local_machine" key="SOFTWARE\Topware\TheMoonProject\BaseGame\FileSystem" value="OutputDir"/>
     <location_shortcut shortcut="Programs\GOG.com\Earth 2150 Trilogy\The Moon Project\The Moon Project.lnk"/>
     <save path="Players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Earth2160" platform="Windows">
     <title>Earth 2160</title>
     <location_path environment_variable="userdocuments" path="Earth 2160"/>
     <save path="Players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EarthwormJim3D" platform="Windows">
     <title>Earthworm Jim 3D</title>
@@ -1784,7 +1821,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Vis Interactive\Earthworm Jim 3D" value="ExecutableLocation"/>
     <location_shortcut shortcut="Programs\GOG.com\Earthworm Jim 3D\Earthworm Jim 3D.lnk"/>
     <save filename="*.SAV"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Eets" platform="Windows">
     <title>Eets</title>
@@ -1806,7 +1843,7 @@
     <location_path environment_variable="userdocuments" path="My Games\Oblivion"/>
     <save path="Saves"/>
     <save filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ElderScrolls5Skyrim" platform="Windows">
     <title>The Elder Scrolls V: Skyrim</title>
@@ -1822,7 +1859,7 @@
     <location_registry root="current_user" key="Software\3LV Games\IwoJima Launcher\1.0" value="InstallPath"/>
     <location_shortcut shortcut="Programs\Games\WWII IwoJima\WWII IwoJima.lnk"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EmpireEarth" platform="Windows">
     <title>Empire Earth</title>
@@ -1834,7 +1871,7 @@
     <save path="Users\*\Civilizations" type="Civilizations"/>
     <save path="Data\Saved Games"/>
     <save path="Data\Scenarios" type="Scenarios"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EmpireEarth2" platform="Windows">
     <title>Empire Earth II</title>
@@ -1844,7 +1881,7 @@
     <save path="maps" type="Maps"/>
     <save path="savegame*"/>
     <save path="scenario" type="Scenarios"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EmpireEarth2TheArtOfSupremacy" platform="Windows">
     <title>Empire Earth II: The Art of Supremacy</title>
@@ -1854,7 +1891,7 @@
     <save path="maps" type="Maps"/>
     <save path="savegame*"/>
     <save path="scenario*" type="Scenarios"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EmpireEarth3" platform="Windows">
     <title>Empire Earth III</title>
@@ -1863,7 +1900,7 @@
     <save path="profiles\*\maps" type="Maps"/>
     <save path="profiles\*\savegame*"/>
     <save path="scenario" type="Scenarios"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EmpireEarthTheArtOfConquest" platform="Windows">
     <title>Empire Earth: The Art of Conquest</title>
@@ -1875,13 +1912,25 @@
     <save path="Users\*\Civilizations" type="Civilizations"/>
     <save path="Data\Saved Games"/>
     <save path="Data\Scenarios" type="Scenarios"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EmpireTotalWar" platform="Windows">
     <title>Empire: Total War</title>
     <location_path environment_variable="appdata" path="The Creative Assembly\Empire"/>
     <save path="save_games"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="EndlessSpace" platform="Windows">
+    <title>Endless Space</title>
+    <location_path environment_variable="userdocuments" path="Endless Space"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="EscapeGoat" platform="Windows">
+    <title>Escape Goat</title>
+    <location_path environment_variable="userdocuments" path="Escape Goat"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="EschalonBook1" platform="Windows">
     <title>Eschalon: Book I</title>
@@ -1905,6 +1954,12 @@
     <save path="Resources" filename="stats.bin" type="Stats"/>
     <contributer>AvvA</contributer>
   </game>
+  <game name="EuropaUniversalis3" platform="Windows">
+    <title>Europa Universalis III</title>
+    <location_path environment_variable="installlocation" path="Paradox Interactive\Europa Universalis 3"/>
+    <save path="save games"/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="EverlightOfMagicAndPower" platform="Windows">
     <title>Everlight: Of Magic and Power</title>
     <location_path environment_variable="appdata" path="everlight"/>
@@ -1923,7 +1978,7 @@
     <save path="DynamicResources\CodeGeneratedData"/>
     <save path="DynamicResources\Layouts"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>slake_jones</contributer>
   </game>
   <game name="Evolva" platform="Windows">
@@ -1934,7 +1989,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Evolva\Evolva.lnk"/>
     <save path="Genohunters"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ExodusFromTheEarth" platform="Windows">
     <title>Exodus from the Earth</title>
@@ -1959,7 +2014,7 @@
     <location_path environment_variable="installlocation" path="NovaLogic\F-22 Lightning 3"/>
     <location_shortcut shortcut="Programs\NovaLogic\F-22 Lightning 3\F-22 Lightning 3.lnk"/>
     <save filename="LSLOT*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Fable" platform="Windows">
     <title>Fable: The Lost Chapters</title>
@@ -1994,7 +2049,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\falloutw.exe" value="Path"/>
     <location_shortcut shortcut="Programs\GOG.com\Fallout\Fallout.lnk"/>
     <save path="DATA\SAVEGAME"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>slake_jones</contributer>
   </game>
   <game name="Fallout2" platform="Windows">
@@ -2005,7 +2060,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\fallout2.exe" value="Path"/>
     <location_shortcut shortcut="Programs\GOG.com\Fallout 2\Fallout 2.lnk"/>
     <save path="data\SAVEGAME"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>slake_jones</contributer>
   </game>
   <game name="Fallout3" platform="Windows">
@@ -2013,7 +2068,7 @@
     <location_path environment_variable="userdocuments" path="My Games\Fallout3"/>
     <save path="Saves"/>
     <save filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FalloutNewVegas" platform="Windows">
     <title>Fallout: New Vegas</title>
@@ -2037,7 +2092,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D6DBDC2A-E72C-4284-B6AD-6B3B61B4DABC}" value="InstallLocation"/>
     <save path="Profiles"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FarCry2" platform="Windows">
     <title>Far Cry 2</title>
@@ -2049,7 +2104,6 @@
     <save path="Server" type="ServerConfig"/>
     <save filename="GamerProfile.xml" type="SettingsAndOnlineKey"/>
     <save path="user maps" filename="*.fc2map" type="UserMaps"/>
-    <comment>This also works with Far Cry 2 Fortune's Edition.</comment>
     <contributer>Arc Angel</contributer>
     <contributer>AvvA</contributer>
   </game>
@@ -2064,13 +2118,13 @@
     <location_path environment_variable="installlocation" path="Farscape The Game"/>
     <save path="Save Games"/>
     <save filename="options.lua" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FEAR2ProjectOrigin" platform="Windows">
     <title>F.E.A.R. 2: Project Origin</title>
     <location_path environment_variable="userdocuments" path="WBGames\FEAR2"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FearCombat" platform="Windows">
     <title>F.E.A.R. Combat</title>
@@ -2090,7 +2144,7 @@
     <save path="Profiles"/>
     <save path="Save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FEARFirstEncounterAssaultRecon" platform="Windows">
     <title>F.E.A.R.: First Encounter Assault Recon</title>
@@ -2099,7 +2153,7 @@
     <save path="Profiles"/>
     <save path="Save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FEARPerseusMandate" platform="Windows">
     <title>F.E.A.R.: Perseus Mandate</title>
@@ -2108,7 +2162,7 @@
     <save path="Profiles"/>
     <save path="Save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FIFA11" platform="Windows">
     <title>FIFA 11</title>
@@ -2179,7 +2233,7 @@
     <title>Freelancer</title>
     <location_path environment_variable="userdocuments" path="My Games\Freelancer"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FreeSpace2" platform="Windows">
     <title>FreeSpace 2</title>
@@ -2189,7 +2243,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Freespace 2\Freespace 2.lnk"/>
     <save path="data\players\Multi" filename="*.plr"/>
     <save path="data\players\Single" filename="*.plr"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Frogger2" platform="Windows">
     <title>Frogger 2</title>
@@ -2197,7 +2251,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\DirectPlay\Applications\Frogger2 - Swampy's Revenge" value="Path"/>
     <location_shortcut shortcut="Programs\Hasbro Interactive\Frogger2\Frogger2.lnk"/>
     <save path="savedata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="FrontlinesFuelOfWar" platform="Windows">
     <title>Frontlines: Fuel of War</title>
@@ -2224,7 +2278,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGGABRIELKNIGHT1" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Gabriel Knight - Sins of the Fathers\Gabriel Knight - Sins of the Fathers.lnk" detract="DOSBOX"/>
     <save filename="GKSG.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GabrielKnight3" platform="Windows">
     <title>Gabriel Knight 3: Blood of the Sacred, Blood of the Damned</title>
@@ -2232,7 +2286,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGGABRIELKNIGHT3" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned.lnk"/>
     <save path="Save Games"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GalacticCivilizations2DarkAvatar" platform="Windows">
     <title>Galactic Civilizations II: Dark Avatar</title>
@@ -2250,7 +2304,7 @@
     <title>Garry's Mod</title>
     <location_path environment_variable="steamuser" path="garrysmod\garrysmod"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GarshaspTheMonsterSlayer" platform="Windows">
     <title>Garshasp: The Monster Slayer</title>
@@ -2264,13 +2318,16 @@
     <location_path environment_variable="userdocuments" path="My Games\Gears of War for Windows"/>
     <save path="WarGame\SaveData"/>
     <save path="WarGame\Config" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GeminiRue" platform="Windows">
     <title>Gemini Rue</title>
-    <location_path environment_variable="steamcommon" path="gemini rue"/>
-    <save path="Saves"/>
+    <location_path environment_variable="savedgames" path="Gemini Rue"/>
+    <location_path environment_variable="steamcommon" path="gemini rue\Saves"/>
+    <location_path environment_variable="userdocuments" path="My Saved Games\Gemini Rue"/>
+    <save filename="agssave.*"/>
     <contributer>Arc Angel</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Ghostbusters" platform="Windows">
     <title>Ghostbusters</title>
@@ -2284,7 +2341,7 @@
     <location_path environment_variable="public" path="Documents\Ghost Master"/>
     <save path="SaveGames"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GhostRecon" platform="Windows">
     <title>Tom Clancy's Ghost Recon</title>
@@ -2335,7 +2392,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\giants.exe" value="Path"/>
     <location_shortcut shortcut="Programs\GOG.com\Giants – Citizen Kabuto\Giants – Citizen Kabuto.lnk"/>
     <save path="savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Gish" platform="Windows">
     <title>Gish</title>
@@ -2403,7 +2460,7 @@
   </game>
   <game name="GratuitousSpaceBattles" platform="Windows">
     <title>Gratuitous Space Battles</title>
-    <location_path environment_variable="userdocuments" path="GratuitousSpaceBattles"/>
+    <location_path environment_variable="userdocuments" path="My Games\GratuitousSpaceBattles"/>
     <save filename="*"/>
     <save path="deployments"/>
     <contributer>Arc Angel</contributer>
@@ -2434,7 +2491,7 @@
     <save filename="*.gsv"/>
     <virtualstore override="yes"/>
     <require_detection/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GrotesqueTactics2" platform="Windows">
     <title>Grotesque Tactics 2: Dungeons and Donuts</title>
@@ -2471,14 +2528,14 @@
     <location_registry root="local_machine" key="SOFTWARE\ArenaNet\Guild Wars" value="Path" platform_version="XP"/>
     <location_shortcut shortcut="Programs\Guild Wars\Guild Wars.lnk" platform_version="XP"/>
     <save path="Templates" type="SkillSets"/>
-    <comment>Backs up skill and weapon templates only</comment>
-    <contributer>SanMadJack</contributer>
+    <comment>Skill and weapon templates only</comment>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GuiltyGearX2" platform="Windows">
     <title>Guilty Gear X2</title>
     <location_path environment_variable="appdata" path="ZOO Digital Publishing\GuiltyGearX2"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="GumboyCrazyAdventures" platform="Windows">
     <title>Gumboy: Crazy Adventures</title>
@@ -2538,7 +2595,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGHAEGEMONIALOI" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Haegemonia - Legions of Iron\Haegemonia - Legions of Iron.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HaegemoniaTheSolonHeritage" platform="Windows">
     <title>Haegemonia: The Solon Heritage</title>
@@ -2547,7 +2604,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGHAEGEMONIATSH" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Haegemonia - Legions of Iron\Haegemonia - The Solon Heritage.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HalfLife" platform="Windows">
     <title>Half-Life</title>
@@ -2555,52 +2612,52 @@
     <location_path environment_variable="steamuser" path="half-life\valve"/>
     <location_registry root="local_machine" key="SOFTWARE\Sierra OnLine\Setup\HALFLIFE" value="Directory" append="valve"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>Scandalon</contributer>
   </game>
   <game name="HalfLife2" platform="Windows">
     <title>Half-Life 2</title>
     <location_path environment_variable="steamuser" path="half-life 2\hl2"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HalfLife2EpisodeOne" platform="Windows">
     <title>Half-Life 2: Episode One</title>
     <location_path environment_variable="steamuser" path="half-life 2 episode one\episodic"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HalfLife2EpisodeTwo" platform="Windows">
     <title>Half-Life 2: Episode Two</title>
     <location_path environment_variable="steamuser" path="half-life 2 episode two\ep2"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HalfLife2LostCoast" platform="Windows">
     <title>Half-Life 2: Lost Coast</title>
     <location_path environment_variable="steamuser" path="half-life 2 lostcoast\lostcoast"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HalfLifeBlueShift" platform="Windows">
     <title>Half-Life: Blue Shift</title>
     <location_game name="HalfLife" platform="Windows" detract="valve" append="bshift"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>Scandalon</contributer>
   </game>
   <game name="HalfLifeOpposingForce" platform="Windows">
     <title>Half-Life: Opposing Force</title>
     <location_game name="HalfLife" platform="Windows" detract="valve" append="gearbox"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>Scandalon</contributer>
   </game>
   <game name="Halo" platform="Windows">
     <title>Halo: Combat Evolved</title>
     <location_path environment_variable="userdocuments" path="My Games\Halo"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HardReset" platform="Windows">
     <title>Hard Reset</title>
@@ -2615,13 +2672,19 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\DirectPlay\Applications\Hardwar" value="Path"/>
     <location_shortcut shortcut="Programs\Hardwar.lnk"/>
     <save filename="*sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HarryPotterAndTheHalfBloodPrince" platform="Windows">
     <title>Harry Potter and the Half-Blood Prince</title>
     <location_path environment_variable="localappdata" path="Electronic Arts\Harry Potter and the Half Blood Prince"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="HarvestMassiveEncounter" platform="Windows">
+    <title>Harvest: Massive Encounter</title>
+    <location_path environment_variable="steamcommon" path="harvest massive encounter"/>
+    <save path="harvestClientData\profiles"/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HeartsOfIron2" platform="Windows">
     <title>Hearts of Iron II</title>
@@ -2648,7 +2711,7 @@
     <location_path environment_variable="installlocation" path="Ritual Entertainment\Heavy Metal - FAKK2"/>
     <save path="fakk\save"/>
     <save path="fakk" filename="config.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Hellforces" platform="Windows">
     <title>Hellforces</title>
@@ -2666,19 +2729,25 @@
     <location_registry root="local_machine" key="SOFTWARE\New World Computing\Heroes of Might and Magic® III\1.0" value="AppPath"/>
     <location_shortcut shortcut="Programs\GOG.com\Heroes of Might and Magic 3 Complete\Heroes of Might and Magic 3 Complete.lnk"/>
     <save path="games"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HeroesOfMightAndMagic5" platform="Windows">
     <title>Heroes of Might and Magic V</title>
     <location_path environment_variable="userdocuments" path="My Games\Heroes of Might and Magic V"/>
     <save path="Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="HeroesOfMightAndMagic6" platform="Windows">
+    <title>Heroes of Might and Magic VI</title>
+    <location_path environment_variable="userdocuments" path="might and magic heroes 6"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Hinterland" platform="Windows">
     <title>Hinterland</title>
     <location_path environment_variable="userdocuments" path="Tilted Mill\Hinterland"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Hitman2SilentAssassin" platform="Windows">
     <title>Hitman 2: Silent Assassin</title>
@@ -2687,20 +2756,20 @@
     <save path="Save"/>
     <save filename="Hitman2.ini" type="Settings"/>
     <save filename="Keyboard.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HitmanBloodMoney" platform="Windows">
     <title>Hitman: Blood Money</title>
     <location_path environment_variable="userdocuments" path="Hitman Blood Money"/>
     <save path="Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HitmanCodename47" platform="Windows">
     <title>Hitman: Codename 47</title>
     <location_path environment_variable="installlocation" path="Eidos Interactive\IO Interactive\Hitman - Codename 47"/>
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\hitman.exe" value="Path"/>
     <save filename="Hitman.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HitmanContracts" platform="Windows">
     <title>Hitman: Contracts</title>
@@ -2709,7 +2778,7 @@
     <save path="Save"/>
     <save filename="HitmanContracts.cfg" type="Settings"/>
     <save filename="HitmanContracts.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Homeworld" platform="Windows">
     <title>Homeworld</title>
@@ -2718,7 +2787,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Sierra OnLine\Setup\HW_USENG" value="Directory"/>
     <location_shortcut shortcut="Programs\Sierra\Homeworld\Homeworld.lnk"/>
     <save path="SavedGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Homeworld2" platform="Windows">
     <title>Homeworld 2</title>
@@ -2727,7 +2796,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Homeworld2" value="UninstallString" detract="uninstall.exe"/>
     <location_shortcut shortcut="Programs\Sierra\Homeworld2\Homeworld2.lnk" detract="\Bin\Release"/>
     <save path="Bin\Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HomeworldCataclysm" platform="Windows">
     <title>Homeworld: Cataclysm</title>
@@ -2736,13 +2805,13 @@
     <location_registry root="local_machine" key="SOFTWARE\Sierra OnLine\Setup\HC_USENG" value="Directory"/>
     <location_shortcut shortcut="Programs\Sierra\Cataclysm\Cataclysm.lnk"/>
     <save path="SavedGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HospitalTycoon" platform="Windows">
     <title>Hospital Tycoon</title>
     <location_path environment_variable="userdocuments" path="HospitalTycoon"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HuntedTheDemonsForge" platform="Windows">
     <title>Hunted: The Demon's Forge</title>
@@ -2760,8 +2829,8 @@
     <save path="Characters" type="Characters"/>
     <save path="mpsave"/>
     <save filename="icewind.ini" type="Settings"/>
-    <comment>Also archives expansion saves</comment>
-    <contributer>SanMadJack</contributer>
+    <comment>Includes expansion saves</comment>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IcewindDale2" platform="Windows">
     <title>Icewind Dale II</title>
@@ -2771,8 +2840,8 @@
     <save path="Characters" type="Characters"/>
     <save path="mpsave"/>
     <save filename="icewind2.ini" type="Settings"/>
-    <comment>Also archives expansion saves</comment>
-    <contributer>SanMadJack</contributer>
+    <comment>Includes expansion saves</comment>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IcyTower15" platform="Windows">
     <title>Icy Tower</title>
@@ -2799,14 +2868,14 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGINCOMING" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Incoming and Incoming Forces\Incoming\Incoming.lnk"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IncredibleMachine3" platform="Windows">
     <title>The Incredible Machine 3</title>
     <location_path environment_variable="drive" path=""/>
     <identifier filename="TIM*.SAV"/>
     <save filename="TIM*.SAV"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IncredibleMachineEvenMoreContraptions" platform="Windows">
     <title>The Incredible Machine: Even More Contraptions</title>
@@ -2814,7 +2883,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGEVENMORE2" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\The Incredible Machine Series\The Incredible Machine - Even More Contraptions\The Incredible Machine - Even More Contraptions.lnk"/>
     <save path="Saved Games"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IndependenceWar" platform="Windows">
     <title>Independence War</title>
@@ -2825,7 +2894,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Independence War Deluxe\Independence War.lnk"/>
     <location_shortcut shortcut="Programs\Independence War\Independence War.lnk"/>
     <save path="psg" filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IndependenceWar2" platform="Windows">
     <title>Independence War 2: Edge of Chaos</title>
@@ -2836,13 +2905,13 @@
     <location_shortcut shortcut="Programs\GOG.com\Independence War 2 - Edge of Chaos\Independence War 2 - Edge of Chaos.lnk" detract="bin\release"/>
     <location_shortcut shortcut="Programs\Infogrames\Independence War 2 - Edge of Chaos\Independence War 2 - Edge of Chaos.lnk" detract="bin\release"/>
     <save path="saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IndependenceWarDefiance" platform="Windows">
     <title>Independence War: Defiance</title>
     <location_game name="IndependenceWar" platform="Windows" append="Defiance"/>
     <save path="psg" filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="IndigoProphecy" platform="Windows">
     <title>Indigo Prophecy</title>
@@ -2855,6 +2924,12 @@
     <location_path environment_variable="steamcommon" path="infernal"/>
     <save path="game\AutoSave!"/>
     <contributer>duncans_pumpkin</contributer>
+  </game>
+  <game name="InsanelyTwistedShadowPlanet" platform="Windows">
+    <title>Insanely Twisted Shadow Planet</title>
+    <location_path environment_variable="localappdata" path="Insanely Twisted Shadow Planet"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="InsaniquariumDeluxe" platform="Windows">
     <title>Insaniquarium Deluxe</title>
@@ -2884,13 +2959,13 @@
     <location_registry root="local_machine" key="SOFTWARE\BioWare\Jade Empire" value="Path"/>
     <save path="Save"/>
     <save filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="JaggedAlliance2Gold" platform="Windows">
     <title>Jaged Alliance 2 Gold</title>
     <location_path environment_variable="steamcommon" path="jagged alliance 2 gold"/>
     <save path="SavedGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Jamestown" platform="Windows">
     <title>Jamestown</title>
@@ -2910,7 +2985,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{BCB9DF93-537D-433D-AF3B-36025DEF5798}" value="InstallLocation"/>
     <location_shortcut shortcut="Programs\HD Publishing\Joint Task Force\Launch Joint Task Force.lnk"/>
     <save path="Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="JudgeDreddDreddVsDeath" platform="Windows">
     <title>Judge Dredd: Dredd vs. Death</title>
@@ -2922,7 +2997,7 @@
     <save filename="save*"/>
     <save path="save*"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="JurassicParkTheGame" platform="Windows">
     <title>Jurassic Park: The Game</title>
@@ -2946,7 +3021,7 @@
     <title>Kane &amp; Lynch: Dead Men</title>
     <location_path environment_variable="localappdata" path="kaneandlynch"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="KaptainBraweEP1" platform="Windows">
     <title>Kaptain Brawe: A Brawe New World</title>
@@ -2979,7 +3054,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGKQ8" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\King's Quest 7-8\King's Quest - Mask of Eternity\King's Quest - Mask of Eternity.lnk"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="LANoire" platform="Windows">
     <title>L.A. Noire</title>
@@ -3037,13 +3112,13 @@
     <save path="Save"/>
     <save filename="Preferences.ini" type="Settings"/>
     <require_detection/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="LordOfTheRingsTheReturnOfTheKing" platform="Windows">
     <title>The Lord of the Rings: The Return of the King</title>
     <location_path environment_variable="userdocuments" path="LOTR The Return of the King (tm) Data"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="LostHorizon" platform="Windows">
     <title>Lost Horizon</title>
@@ -3087,7 +3162,7 @@
     <title>Lumines</title>
     <location_path environment_variable="appdata" path="Valve\Lumines"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Mafia" platform="Windows">
     <title>Mafia</title>
@@ -3095,7 +3170,7 @@
     <location_path environment_variable="steamcommon" path="mafia"/>
     <save path="savegame"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Mafia2" platform="Windows">
     <title>Mafia II</title>
@@ -3113,13 +3188,13 @@
     <title>Majesty</title>
     <location_path environment_variable="userdocuments" path="My Games\MajestyHD"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Majesty2" platform="Windows">
     <title>Majesty 2</title>
     <location_path environment_variable="userdocuments" path="majesty2"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Manhunt" platform="Windows">
     <title>Manhunt</title>
@@ -3173,7 +3248,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Master of Orion 1 and 2\Master of Orion 2\Documents\Readme.lnk"/>
     <location_shortcut shortcut="Programs\Microprose\Master of Orion II\Master of Orion II.lnk"/>
     <save filename="SAVE*.GAM"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MatrixPathOfNeo" platform="Windows">
     <title>The Matrix: Path of Neo</title>
@@ -3181,7 +3256,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E571E8B1-9771-465D-9DE0-3BA2D1BDAE99}" value="InstallLocation"/>
     <location_shortcut shortcut="Programs\Atari\The Matrix - Path of Neo\The Matrix - Path of Neo.lnk"/>
     <save path="saved"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MaxPayne" platform="Windows">
     <title>Max Payne</title>
@@ -3202,7 +3277,7 @@
     <location_shortcut shortcut="Programs\GOG.com\MDK\MDK.lnk"/>
     <save path="SAVES"/>
     <save filename="MDK.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MDK2" platform="Windows">
     <title>MDK 2</title>
@@ -3211,7 +3286,7 @@
     <location_shortcut shortcut="Programs\GOG.com\MDK2\MDK 2.lnk"/>
     <save path="save" filename="*.sav"/>
     <save path="save" filename="*.lua" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechCommander" platform="Windows">
     <title>MechCommander</title>
@@ -3219,7 +3294,7 @@
     <location_registry root="local_machine" key="SOFTWARE\FASA Interactive\MechCommander" value="Path"/>
     <location_shortcut shortcut="Programs\Microprose\MechCommander\Mech Commander.lnk"/>
     <save path="data\savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechCommander2" platform="Windows">
     <title>MechCommander 2</title>
@@ -3228,7 +3303,7 @@
     <location_shortcut shortcut="Programs\Microsoft Games\MechCommander 2\MechCommander 2.lnk"/>
     <save path="data\savegame"/>
     <save filename="*.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior2" platform="Windows">
     <title>MechWarrior 2: 31st Century Combat</title>
@@ -3238,7 +3313,7 @@
     <save filename="userstar.bwd"/>
     <save filename="MW2PRM.CFG" type="Settings"/>
     <save filename="MW2REG.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior2TitaniumEdition" platform="Windows">
     <title>MechWarrior 2: 31st Century Combat: Titanium Edition</title>
@@ -3250,7 +3325,7 @@
     <save filename="userstar.bwd"/>
     <save filename="MW2PRM.CFG" type="Settings"/>
     <save filename="MW2REG.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior2GhostBearsLegacy" platform="Windows">
     <title>MechWarrior 2: Ghost Bear's Legacy</title>
@@ -3260,7 +3335,7 @@
     <save filename="userstar.bwd"/>
     <save filename="MW2PRM.CFG" type="Settings"/>
     <save filename="MW2REG.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior2GhostBearsLegacyTitaniumEdition" platform="Windows">
     <title>MechWarrior 2: Ghost Bear's Legacy: Titanium Edition</title>
@@ -3271,7 +3346,7 @@
     <save filename="userstar.bwd"/>
     <save filename="MW2PRM.CFG" type="Settings"/>
     <save filename="MW2REG.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior2Mercenaries" platform="Windows">
     <title>MechWarrior 2: Mercenaries</title>
@@ -3281,7 +3356,7 @@
     <save filename="userstar.bwd"/>
     <save filename="MW2PRM.CFG" type="Settings"/>
     <save filename="MW2REG.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior2MercenariesTitaniumEdition" platform="Windows">
     <title>MechWarrior 2: Mercenaries: Titanium Edition</title>
@@ -3293,7 +3368,7 @@
     <save filename="userstar.bwd"/>
     <save filename="MW2PRM.CFG" type="Settings"/>
     <save filename="MW2REG.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior3" platform="Windows">
     <title>MechWarrior 3</title>
@@ -3303,7 +3378,7 @@
     <save path="configs" type="Mechs"/>
     <save path="pilots"/>
     <save path="Keys" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior3PiratesMoon" platform="Windows">
     <title>MechWarrior 3: Pirate's Moon</title>
@@ -3311,7 +3386,7 @@
     <save path="configs" type="Mechs"/>
     <save path="pilots"/>
     <save path="Keys" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior4BlackKnight" platform="Windows">
     <title>MechWarrior 4: Black Knight</title>
@@ -3321,7 +3396,7 @@
     <save path="resource\Variantsx" type="Mechs"/>
     <save path="resource\Pilotsx"/>
     <save filename="optionsx.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior4Mercenaries" platform="Windows">
     <title>MechWarrior 4: Mercenaries</title>
@@ -3329,7 +3404,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Microsoft Games\MechWarrior Mercenaries" value="EXE Path"/>
     <save path="RESOURCE\VariantsMercs" type="Mechs"/>
     <save path="RESOURCE\Pilots"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MechWarrior4Vengeance" platform="Windows">
     <title>MechWarrior 4: Vengeance</title>
@@ -3338,7 +3413,7 @@
     <save path="resource\variants" type="Mechs"/>
     <save path="resource\pilots"/>
     <save filename="options.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MedalOfHonor2010" platform="Windows">
     <title>Medal of Honor (2010)</title>
@@ -3354,35 +3429,35 @@
     <location_shortcut shortcut="Programs\SEGA\Medieval II Total War\Launch Medieval II Total War.lnk"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Medieval2TotalWarKingdomsAmericas" platform="Windows">
     <title>Medieval II: Total War: Kingdoms (Americas)</title>
     <location_game name="Medieval2TotalWar" platform="Windows" append="mods\americas"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Medieval2TotalWarKingdomsBritannia" platform="Windows">
     <title>Medieval II: Total War: Kingdoms (Britannia)</title>
     <location_game name="Medieval2TotalWar" platform="Windows" append="mods\british_isles"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Medieval2TotalWarKingdomsCrusades" platform="Windows">
     <title>Medieval II: Total War: Kingdoms (Crusades)</title>
     <location_game name="Medieval2TotalWar" platform="Windows" append="mods\crusades"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Medieval2TotalWarKingdomsTeutonic" platform="Windows">
     <title>Medieval II: Total War: Kingdoms (Teutonic)</title>
     <location_game name="Medieval2TotalWar" platform="Windows" append="mods\teutonic"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Megarace3" platform="Windows">
     <title>Megarace 3</title>
@@ -3390,7 +3465,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGMEGARACE3" value="SAVEGAMEFOLDER"/>
     <location_shortcut shortcut="Programs\GOG.com\Megarace 3\Megarace 3.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Messiah" platform="Windows">
     <title>Messiah</title>
@@ -3399,7 +3474,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Messiah\Messiah.lnk"/>
     <save path="SAVE"/>
     <save filename="Messiah.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Metro2033" platform="Windows">
     <title>Metro 2033</title>
@@ -3420,7 +3495,7 @@
     <location_registry root="local_machine" key="SOFTWARE\NovaLogic\MiG-29 Fulcrum\1.00.000" value="ExecPath"/>
     <location_shortcut shortcut="Programs\NovaLogic\MiG-29 Fulcrum\MiG-29 Fulcrum.lnk"/>
     <save filename="mslot*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MiniNinjas" platform="Windows">
     <title>Mini Ninjas</title>
@@ -3433,7 +3508,7 @@
     <location_path environment_variable="userdocuments" path="EA Games\Mirror's Edge"/>
     <save path="TdGame\Savefiles"/>
     <save path="TdGame\Config" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MisadventuresOfPBWinterbottom" platform="Windows">
     <title>The Misadventures of P.B. Winterbottom</title>
@@ -3448,6 +3523,18 @@
     <save path="profiles"/>
     <save path="preferences" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
+  </game>
+  <game name="MLB2K11" platform="Windows">
+    <title>Major League Baseball 2K11</title>
+    <location_path environment_variable="appdata" path="2K Sports\MLB 2k11"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="MLB2K9" platform="Windows">
+    <title>Major League Baseball 2K9</title>
+    <location_path environment_variable="appdata" path="2K Sports\MLB 2k9"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MonkeyIsland2LeChucksRevengeSpecialEdition" platform="Windows">
     <title>Monkey Island™ 2 Special Edition: LeChuck’s Revenge</title>
@@ -3473,7 +3560,7 @@
     <title>Mosby's Confederacy</title>
     <location_path environment_variable="userdocuments" path="Tilted Mill\Mosby's Confederacy"/>
     <save path="saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MotocrossMadness" platform="Windows">
     <title>Motocross Madness</title>
@@ -3481,7 +3568,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\DirectPlay\Applications\Motocross Madness" value="Path"/>
     <location_shortcut shortcut="Programs\Microsoft Games\Motocross Madness\Play Motocross Madness.lnk"/>
     <save path="ui\profile"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="MountAndBlade" platform="Windows">
     <title>Mount &amp; Blade</title>
@@ -3509,7 +3596,7 @@
     <identifier filename="*.mys"/>
     <save filename="*.mys"/>
     <comment>Checks for saves in Documents\Myst and Alt. Save Paths</comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Myst3" platform="Windows">
     <title>Myst III: Exile</title>
@@ -3517,27 +3604,27 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\M3.exe" value="Path"/>
     <save path="Saved Games"/>
     <save path="bin" filename="M3prefs.m3p" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Myst4" platform="Windows">
     <title>Myst IV: Revelation</title>
     <location_path environment_variable="installlocation" path="Ubisoft\Myst IV - Revelation"/>
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{96F702F3-7CA4-41B5-A70A-4F348DF99A9A}" value="InstallLocation"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Myst5" platform="Windows">
     <title>Myst V: End of Ages</title>
     <location_path environment_variable="localappdata" path="Myst V End of Ages"/>
     <save filename="progress.db"/>
     <save path="sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NapoleonTotalWar" platform="Windows">
     <title>Napoleon: Total War</title>
     <location_path environment_variable="appdata" path="The Creative Assembly\Napoleon"/>
     <save path="save_games "/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NationRed" platform="Windows">
     <title>Nation Red</title>
@@ -3550,6 +3637,12 @@
     <location_path environment_variable="appdata" path="Naval Warfare"/>
     <save/>
     <contributer>Arc Angel</contributer>
+  </game>
+  <game name="NBA2K11" platform="Windows">
+    <title>NBA 2K11</title>
+    <location_path environment_variable="appdata" path="2K Sports\NBA 2k11"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NecrovisioNLostCompany" platform="Windows">
     <title>NecrovisioN: Lost Company</title>
@@ -3596,7 +3689,7 @@
     <save path="saves"/>
     <save filename="nwn.ini" type="Settings"/>
     <save filename="nwnplayer.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NeverwinterNights2" platform="Windows">
     <title>Neverwinter Nights 2</title>
@@ -3605,13 +3698,13 @@
     <save path="localvault" type="Characters"/>
     <save path="servervault" type="Characters"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NightSky" platform="Windows">
     <title>Night Sky</title>
     <location_path environment_variable="appdata" path="Nicalis\NightSky"/>
     <save filename="Default.ini"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Nikopol" platform="Windows">
     <title>Nikopol: Secrets of the Immortals</title>
@@ -3629,7 +3722,7 @@
     <title>No Gravity</title>
     <location_path environment_variable="userdocuments" path="No Gravity Savegames"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NoOneLivesForever" platform="Windows">
     <title>No One Lives Forever</title>
@@ -3639,7 +3732,7 @@
     <location_shortcut shortcut="Programs\Fox Interactive\No One Lives Forever\No One Lives Forever.lnk"/>
     <save path="Save"/>
     <save filename="autoexec.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="NoOneLivesForever2" platform="Windows">
     <title>No One Lives Forever 2: A Spy In H.A.R.M.'s Way</title>
@@ -3648,7 +3741,7 @@
     <location_shortcut shortcut="Programs\Fox Interactive\No One Lives Forever 2\No One Lives Forever 2.lnk"/>
     <save path="Save"/>
     <save filename="autoexec.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="OddworldAbesExoddus" platform="Windows">
     <title>Oddworld: Abe's Exoddus</title>
@@ -3657,7 +3750,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGABESEXODDUS" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Abe's Exoddus\Abe's Exoddus.lnk"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>slake_jones</contributer>
   </game>
   <game name="OddworldAbesOddysee" platform="Windows">
@@ -3667,7 +3760,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGABESODDYSEE" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Abe's Oddysee\Abe's Oddysee.lnk"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>slake_jones</contributer>
   </game>
   <game name="OddworldMunchsOddysee" platform="Windows">
@@ -3690,14 +3783,14 @@
     <location_path environment_variable="installlocation" path="Eidos Interactive\Quantic Dream\Omikron The Nomad Soul"/>
     <location_shortcut shortcut="Programs\Eidos Interactive\Quantic Dream\Omikron The Nomad Soul\Omikron The Nomad Soul.lnk"/>
     <save path="IAM" filename="GAMES"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Oni" platform="Windows">
     <title>Oni</title>
     <location_path environment_variable="installlocation" path="Oni"/>
     <save filename="persist.dat"/>
     <save filename="key_config.txt" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="OperationFlashpointDragonRising" platform="Windows">
     <title>Operation Flashpoint: Dragon Rising</title>
@@ -3715,7 +3808,7 @@
     <title>Orcs Must Die!</title>
     <location_path environment_variable="userdocuments" path="Orcs Must Die"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Osmos" platform="Windows">
     <title>Osmos</title>
@@ -3729,7 +3822,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGOUTCAST" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Outcast\Outcast.lnk"/>
     <save path="savegames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Outpost2DividedDestiny" platform="Windows">
     <title>Outpost 2: Divided Destiny</title>
@@ -3737,7 +3830,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Sierra OnLine\Setup\Outpost2" value="Directory"/>
     <location_shortcut shortcut="Programs\Sierra\Outpost 2.lnk"/>
     <save filename="*.OP2"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Overlord" platform="Windows">
     <title>Overlord</title>
@@ -3762,7 +3855,7 @@
     <location_shortcut shortcut="Programs\DreamCatcher\Painkiller Gold Edition\Painkiller.lnk" detract="Bin"/>
     <location_shortcut shortcut="Programs\GOG.com\Painkiller Black\Painkiller Black.lnk" detract="Bin"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PainkillerRedemption" platform="Windows">
     <title>Painkiller: Redemption</title>
@@ -3774,7 +3867,7 @@
     <title>The Path</title>
     <location_path environment_variable="steamcommon" path="the path"/>
     <save path="userdata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Pathologic" platform="Windows">
     <title>Pathologic</title>
@@ -3792,7 +3885,7 @@
     <identifier path="userdata"/>
     <save path="userdata" filename="*.dat"/>
     <save path="userdata" filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PeggleExtreme" platform="Windows">
     <title>Peggle Extreme</title>
@@ -3800,7 +3893,7 @@
     <location_path environment_variable="steamcommon" path="peggle extreme" platform_version="XP"/>
     <identifier path="userdata"/>
     <save path="userdata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PeggleNights" platform="Windows">
     <title>Peggle Nights</title>
@@ -3810,7 +3903,7 @@
     <location_registry root="current_user" key="Software\PopCap\PeggleNights" value="RunPath" platform_version="XP"/>
     <identifier path="userdata"/>
     <save path="userdata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PeggleWOWEdition" platform="Windows">
     <title>Peggle World of Warcraft Edition</title>
@@ -3820,48 +3913,48 @@
     <location_shortcut shortcut="Programs\PopCap Games\Peggle World of Warcraft Edition\Play Peggle World of Warcraft Edition.lnk" platform_version="XP"/>
     <identifier path="userdata"/>
     <save path="userdata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PennyArcadeAdventures1" platform="Windows">
     <title>Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode One</title>
     <location_path environment_variable="localappdata" path="HotheadGames\RainSlickEp1"/>
     <save filename="*.sav"/>
     <save filename="prefs.cs" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PennyArcadeAdventures2" platform="Windows">
     <title>Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Two</title>
     <location_path environment_variable="localappdata" path="HotheadGames\RainSlickEp2"/>
     <save filename="*.sav"/>
     <save filename="prefs.cs" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PenumbraBlackPlague" platform="Windows">
     <title>Penumbra: Black Plague</title>
     <location_path environment_variable="userdocuments" path="Penumbra\Black Plague"/>
     <save path="save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PenumbraOverture" platform="Windows">
     <title>Penumbra Overture</title>
     <location_path environment_variable="userdocuments" path="Penumbra Overture\Episode1"/>
     <save path="save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PenumbraRequiem" platform="Windows">
     <title>Penumbra: Requiem</title>
     <location_path environment_variable="userdocuments" path="Penumbra\Requiem"/>
     <save path="save"/>
     <save filename="settings.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Pirates" platform="Windows">
     <title>Sid Meier's Pirates!</title>
     <location_path environment_variable="userdocuments" path="My Games\Sid Meier's Pirates!"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PlanescapeTorment" platform="Windows">
     <title>Planescape: Torment</title>
@@ -3871,7 +3964,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\torment.exe" value="Path"/>
     <location_shortcut shortcut="Programs\GOG.com\Planescape Torment\Planescape Torment.lnk"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PlantsVsZombies" platform="Windows">
     <title>Plants Vs. Zombies</title>
@@ -3891,7 +3984,7 @@
     <title>Pocket Tanks</title>
     <location_path environment_variable="userdocuments" path="My Games\Pocket Tanks"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PokerNightAtTheInventory" platform="Windows">
     <title>Poker Night at the Inventory</title>
@@ -3903,13 +3996,13 @@
     <title>Portal</title>
     <location_path environment_variable="steamuser" path="portal"/>
     <save path="portal\SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Portal2" platform="Windows">
     <title>Portal 2</title>
     <location_path environment_variable="steamcommon" path="portal 2"/>
     <save path="portal2\SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PortRoyale" platform="Windows">
     <title>Port Royale</title>
@@ -3927,7 +4020,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Running With Scissors\Postal Classic &amp; Uncut" value="InstallDir"/>
     <location_shortcut shortcut="GOG.com\Postal Classic and Uncut\Postal Classic and Uncut.lnk"/>
     <save path="res\SaveGame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Postal2" platform="Windows">
     <title>Postal 2</title>
@@ -3937,7 +4030,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Running With Scissors\Postal2STP\Full\US" value="InstallDir"/>
     <location_shortcut shortcut="Programs\GOG.com\Postal 2 Share The Pain\Postal 2 Share The Pain.lnk" detract="System"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Postal2ApocalypseWeekend" platform="Windows">
     <title>Postal 2: Apocalypse Weekend</title>
@@ -3945,13 +4038,13 @@
     <location_shortcut shortcut="Programs\GOG.com\Postal 2 Share The Pain\Postal 2 Apocalypse Weekend Expansion Pack.lnk" detract="System"/>
     <location_game name="Postal2" platform="Windows" append="ApocalypseWeekend"/>
     <save path="AWSave"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PostMortem" platform="Windows">
     <title>Post Mortem</title>
     <location_path environment_variable="userdocuments" path="Post_Mortem Saves"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Precursors" platform="Windows">
     <title>Precursors</title>
@@ -3965,7 +4058,7 @@
     <title>Prey</title>
     <location_path environment_variable="userdocuments" path="My Games\PREY"/>
     <save path="base\savegames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PrimalPrey" platform="Windows">
     <title>Primal Prey</title>
@@ -3974,7 +4067,7 @@
     <location_shortcut shortcut="Programs\Primal Prey\Play Primal.lnk"/>
     <save filename="config.cfg" type="Settings"/>
     <save filename="trophies.txt" type="Trophies"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PrinceOfPersia2008" platform="Windows">
     <title>Prince of Persia (2008)</title>
@@ -3994,7 +4087,7 @@
     <save path="Profiles"/>
     <contributer>Caleb Love</contributer>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ProjectBlackSun" platform="Windows">
     <title>Project Black Sun</title>
@@ -4007,7 +4100,7 @@
     <title>Project Snowblind</title>
     <location_path environment_variable="userdocuments" path="Project Snowblind"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Prototype" platform="Windows">
     <title>Prototype</title>
@@ -4024,7 +4117,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A129D1F2-CAC4-4AD7-B26D-3C6411B87DCC}" value="InstallLocation"/>
     <location_shortcut shortcut="Programs\GOG.com\Psychonauts\Psychonauts.lnk"/>
     <save path="Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="PuzzleAgent" platform="Windows">
     <title>Puzzle Agent</title>
@@ -4044,7 +4137,13 @@
     <location_path environment_variable="userdocuments" path="Puzzle Quest"/>
     <save path="Saves"/>
     <save path="High Scores" type="Statistics"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="PuzzleQuestGalactrix" platform="Windows">
+    <title>Puzzle Quest: Galactrix</title>
+    <location_path environment_variable="userdocuments" path="Puzzle Quest Galactrix"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Quake2" platform="Windows">
     <title>Quake II</title>
@@ -4062,7 +4161,7 @@
     <save path="q4base\savegames"/>
     <virtualstore override="yes"/>
     <require_detection/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RACE07" platform="Windows">
     <title>RACE 07</title>
@@ -4073,7 +4172,7 @@
     <ignore path="UserData\LOG"/>
     <ignore path="UserData\Music"/>
     <save filename="Config.ini" type="Settings"/>
-    <comment>This save is also for the STCC: The Game</comment>
+    <comment>Includes STCC: The Game</comment>
     <contributer>AdmiringWorm</contributer>
   </game>
   <game name="RaceDriverGrid" platform="Windows">
@@ -4086,7 +4185,7 @@
     <title>Rag Doll Kung Fu</title>
     <location_path environment_variable="steamuser" path="rag doll kung fu"/>
     <save path="data"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Rage" platform="Windows">
     <title>Rage</title>
@@ -4134,7 +4233,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGRAPTOR" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Raptor - Call of the Shadows\Raptor - Call of the Shadows.lnk"/>
     <save filename="*.FIL"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RatHunter" platform="Windows">
     <title>Rat Hunter</title>
@@ -4151,7 +4250,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Rayman 2\Rayman 2.lnk"/>
     <save path="Data\SaveGame"/>
     <save path="Data\Options" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Rayman3" platform="Windows">
     <title>Rayman 3: Hoodlum Havoc</title>
@@ -4160,13 +4259,19 @@
     <location_registry root="local_machine" key="SOFTWARE\Ubi Soft\RAYMAN 3" value="InstallDir"/>
     <location_shortcut shortcut="Programs\GOG.com\Rayman 3\Rayman 3.lnk"/>
     <save path="GAMEDATA\SaveGame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RaymanOrigins" platform="Windows">
     <title>Rayman Origins</title>
     <location_path environment_variable="userdocuments" path="My Games\Rayman Origins"/>
     <save path="Savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="RealflightG5" platform="Windows">
+    <title>Realflight G5</title>
+    <location_path environment_variable="userdocuments" path="RealFlight G5"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RealMyst" platform="Windows">
     <title>realMyst</title>
@@ -4174,7 +4279,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGREALMYST" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\realMyst\realMyst.lnk"/>
     <save path="SAV"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RecettearAnItemShopsTale" platform="Windows">
     <title>Recettear: An Item Shop's Tale</title>
@@ -4188,7 +4293,7 @@
     <location_path environment_variable="installlocation" path="Games\RedFaction"/>
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\RedFaction.exe" value="Path"/>
     <save path="savegame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RedFaction2" platform="Windows">
     <title>Red Faction II</title>
@@ -4196,7 +4301,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E074FB23-D61B-4C6A-AD15-AB9695ED2EF7}" value="InstallLocation"/>
     <save path="profiles"/>
     <save filename="rf2_config.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RedFactionGuerrilla" platform="Windows">
     <title>Red Faction: Guerrilla</title>
@@ -4224,7 +4329,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Sierra OnLine\Setup\CONTRAP" value="Directory"/>
     <location_shortcut shortcut="Programs\GOG.com\The Incredible Machine Series\Return of the Incredible Machine Contraptions\Return of the Incredible Machine Contraptions.lnk"/>
     <save path="Saved Games"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ReturnToCastleWolfenstein" platform="Windows">
     <title>Return to Castle Wolfenstein</title>
@@ -4235,8 +4340,8 @@
     <location_registry root="local_machine" key="SOFTWARE\Activision\Return to Castle Wolfenstein - Platinum Edition" value="InstallPath"/>
     <save path="Main\save"/>
     <save path="Main" filename="wolfconfig.cfg" type="Settings"/>
+    <contributer>GameSave.Info</contributer>
     <contributer>Jetsetlemming</contributer>
-    <contributer>SanMadJack</contributer>
   </game>
   <game name="RevengeOfTheTitans" platform="Windows">
     <title>Revenge of the Titans</title>
@@ -4248,13 +4353,13 @@
     <title>Risen</title>
     <location_path environment_variable="userdocuments" path="Risen"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Risen2" platform="Windows">
     <title>Risen 2</title>
     <location_path environment_variable="userdocuments" path="Saved Games\Risen2"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RiseOfLegends" platform="Windows">
     <title>Rise Of Legends</title>
@@ -4283,14 +4388,20 @@
     <identifier filename="*.rvn"/>
     <save filename="*.rvn"/>
     <comment>Checks for saves in My Documents\Riven and Alt. Save Paths</comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RoboBlitz" platform="Windows">
     <title>RoboBlitz</title>
     <location_path environment_variable="steamcommon" path="roboblitz"/>
     <save path="SavedGames"/>
     <save path="RoboGame\Config" filename="Robo*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="RogueTrooper" platform="Windows">
+    <title>Rogue Trooper</title>
+    <location_path environment_variable="userdocuments" path="Rogue Trooper"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RogueWarrior" platform="Windows">
     <title>Rogue Warrior</title>
@@ -4320,7 +4431,7 @@
     <location_registry root="local_machine" key="SOFTWARE\The Creative Assembly\Rome - Total War" value="InstallPath"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RomeTotalWarAlexander" platform="Windows">
     <title>Rome: Total War: Alexander</title>
@@ -4328,14 +4439,14 @@
     <location_game name="RomeTotalWar" platform="Windows" append="alexander"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="RomeTotalWarBarbarianInvasion" platform="Windows">
     <title>Rome: Total War: Barbarian Invasion</title>
     <location_game name="RomeTotalWar" platform="Windows" append="bi"/>
     <save path="saves"/>
     <save path="preferences" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Runaway2TheDreamOfTheTurtle" platform="Windows">
     <title>Runaway 2: The Dream Of The Turtle</title>
@@ -4377,7 +4488,7 @@
     <title>Saint's Row 2</title>
     <location_path environment_variable="localappdata" path="THQ\Saints Row 2"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason1Episode1" platform="Windows">
     <title>Sam &amp; Max Save The World Episode 1 - Culture Shock</title>
@@ -4389,7 +4500,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason1Episode2" platform="Windows">
     <title>Sam &amp; Max Save The World Episode 2 - Situation Comedy</title>
@@ -4401,7 +4512,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason1Episode3" platform="Windows">
     <title>Sam &amp; Max Save The World Episode 3 - The Mole, the Mob, and the Meatball</title>
@@ -4413,7 +4524,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason1Episode4" platform="Windows">
     <title>Sam &amp; Max Save The World Episode 4 - Abe Lincoln Must Die!</title>
@@ -4425,7 +4536,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason1Episode5" platform="Windows">
     <title>Sam &amp; Max Save The World Episode 5 - Reality 2.0</title>
@@ -4437,7 +4548,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason1Episode6" platform="Windows">
     <title>Sam &amp; Max Save The World Episode 6 - Bright Side of the Moon</title>
@@ -4449,7 +4560,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason2Episode1" platform="Windows">
     <title>Sam &amp; Max Beyond Time and Space Episode 1 - Ice Station Santa</title>
@@ -4461,7 +4572,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason2Episode2" platform="Windows">
     <title>Sam &amp; Max Beyond Time and Space Episode 2 - Moai Better Blues</title>
@@ -4473,7 +4584,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason2Episode3" platform="Windows">
     <title>Sam &amp; Max Beyond Time and Space Episode 3 - Night of the Raving Dead</title>
@@ -4485,7 +4596,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason2Episode4" platform="Windows">
     <title>Sam &amp; Max Beyond Time and Space Episode 4 - Chariots of the Dogs</title>
@@ -4497,7 +4608,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxSeason2Episode5" platform="Windows">
     <title>Sam &amp; Max Beyond Time and Space Episode 5 - What's New, Beelzebub</title>
@@ -4509,7 +4620,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>duncans_pumpkin</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxTheDevilsPlayhouseEpisode1" platform="Windows">
     <title>Sam &amp; Max - The Devil's Playhouse Episode 1 - The Penal Zone</title>
@@ -4517,31 +4628,31 @@
     <save/>
     <ignore filename="prefs.prop"/>
     <save filename="prefs.prop" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxTheDevilsPlayhouseEpisode2" platform="Windows">
     <title>Sam &amp; Max - The Devil's Playhouse Episode 2 - The Tomb of Sammun-Mak</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\The Tomb of Sammun-Mak"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxTheDevilsPlayhouseEpisode3" platform="Windows">
     <title>Sam &amp; Max - The Devil's Playhouse Episode 3 - They Stole Max's Brain</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\They Stole Maxs Brain"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxTheDevilsPlayhouseEpisode4" platform="Windows">
     <title>Sam &amp; Max - The Devil's Playhouse Episode 4 - Beyond the Alley of the Dolls</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\Beyond the Alley of the Dolls"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SamAndMaxTheDevilsPlayhouseEpisode5" platform="Windows">
     <title>Sam &amp; Max - The Devil's Playhouse Episode 5 - The City That Dares Not Sleep</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\The City That Dares Not Sleep"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Sanctum" platform="Windows">
     <title>Sanctum</title>
@@ -4549,7 +4660,7 @@
     <save path="SanctumGame\Config" filename="SanctumSave.ini"/>
     <save path="SanctumGame\Config" filename="*.ini" type="Settings"/>
     <ignore path="SanctumGame\Config" filename="SanctumSave.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Sanitarium" platform="Windows">
     <title>Sanitarium</title>
@@ -4560,13 +4671,19 @@
     <location_shortcut shortcut="Programs\ASC Games\Sanitarium\Sanitarium.lnk"/>
     <location_shortcut shortcut="Programs\GOG.com\Sanitarium\Sanitarium.lnk"/>
     <save path="SAVES"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SASSecureTomorrow" platform="Windows">
     <title>SAS: Secure Tomorrow</title>
     <location_path environment_variable="userdocuments" path="City Interactive\SAS Secure Tomorrow"/>
     <save/>
     <contributer>Arc Angel</contributer>
+  </game>
+  <game name="Savage2" platform="Windows">
+    <title>Savage 2: A Tortured Soul</title>
+    <location_path environment_variable="userdocuments" path="Savage 2 - A Tortured Soul"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Saw" platform="Windows">
     <title>SAW</title>
@@ -4592,7 +4709,7 @@
     <save/>
     <ignore filename="*.cfg"/>
     <save filename="*.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SecondSight" platform="Windows">
     <title>Second Sight</title>
@@ -4601,7 +4718,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGSECONDSIGHT" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Second Sight\Second Sight.lnk"/>
     <save path="profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SecretOfMonkeyIslandSpecialEdition" platform="Windows">
     <title>The Secret of Monkey Island™ Special Edition</title>
@@ -4609,7 +4726,7 @@
     <identifier filename="monkey1.bin"/>
     <save filename="savegame.*"/>
     <save filename="Settings.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Section8" platform="Windows">
     <title>Section 8</title>
@@ -4632,7 +4749,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Septerra Core\Septerra Core.lnk"/>
     <location_shortcut shortcut="Programs\Valkyrie Studios\Septerra Core\Septerra Core.lnk"/>
     <save path="savedata"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SeriousSam2" platform="Windows">
     <title>Serious Sam 2</title>
@@ -4648,14 +4765,14 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Shadowgrounds_is1" value="InstallLocation"/>
     <save path="Profiles"/>
     <save path="Config" filename="options.txt" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ShadowgroundsSurvivor" platform="Windows">
     <title>Shadowgrounds: Survivor</title>
     <location_path environment_variable="steamcommon" path="shadowgrounds survivor"/>
     <save path="Profiles"/>
     <save path="Config" filename="options.txt" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ShadowHarvestPhantomOps" platform="Windows">
     <title>Shadow Harvest: Phantom Ops</title>
@@ -4676,7 +4793,7 @@
     <location_path environment_variable="userdocuments" path="Eidos\Shellshock2"/>
     <save filename="*.sav"/>
     <save filename="*.txt" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Ship" platform="Windows">
     <title>The Ship</title>
@@ -4692,7 +4809,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Monolith Productions\Shogo\1.0" value="WorkingDirectory"/>
     <location_shortcut shortcut="Programs\Monolith Games\Shogo\Shogo.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ShogunTotalWar" platform="Windows">
     <title>Shogun: Total War</title>
@@ -4700,6 +4817,12 @@
     <location_shortcut shortcut="Programs\Total War\Shogun - Total War - Warlord Edition\Shogun - Total War - Warlord Edition.lnk"/>
     <save path="savegames"/>
     <contributer>Mark Barbour</contributer>
+  </game>
+  <game name="ShootManyRobots" platform="Windows">
+    <title>Shoot Many Robots</title>
+    <location_path environment_variable="localappdata" path="Demiurge Studios\Shoot Many Robots"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SilentHillHomecoming" platform="Windows">
     <title>Silent Hill: Homecoming</title>
@@ -4713,7 +4836,7 @@
     <location_registry root="current_user" key="Software\Maxis\SimCity 2000\Paths" value="Home"/>
     <location_shortcut shortcut="Programs\Maxis\SimCity 2000.lnk"/>
     <save path="Cities" modified_after="1998-04-23T00:00:00"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SimonTheSorceror3D" platform="Windows">
     <title>Simon the Sorceror 3D</title>
@@ -4722,7 +4845,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Simon the Sorcerer 3D\Simon the Sorcerer 3D.lnk"/>
     <save path="Data" filename="SaveGamesNew.txt"/>
     <save path="Data" filename="SimonSaveGame*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Sims2" platform="Windows">
     <title>The Sims 2</title>
@@ -4747,13 +4870,13 @@
     <title>Sin</title>
     <location_path environment_variable="steamuser" path="sin 1"/>
     <save path="base\players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SinEpisodesEmergence" platform="Windows">
     <title>Sin Episodes: Emergence</title>
     <location_path environment_variable="steamuser" path="sin episodes emergence"/>
     <save path="SE1\SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Singularity" platform="Windows">
     <title>Singularity</title>
@@ -4766,7 +4889,7 @@
     <location_path environment_variable="localappdata" path="Ironclad Games\Sins of a Solar Empire"/>
     <save path="*Player"/>
     <save path="Setting" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Snajper" platform="Windows">
     <title>Snajper (Sniper: Path of Vengeance)</title>
@@ -4799,7 +4922,7 @@
     <title>SpaceChem</title>
     <location_path environment_variable="localappdata" path="Zachtronics Industries\SpaceChem"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SpaceRangers" platform="Windows">
     <title>Space Rangers</title>
@@ -4808,7 +4931,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGSPACERANGERS" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Space Rangers\Space Rangers.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
     <contributer>slake_jones</contributer>
   </game>
   <game name="SpaceRangers2Dominators" platform="Windows">
@@ -4817,7 +4940,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGSPACERANGERS2" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Space Rangers 2 - Dominators\Space Rangers 2 - Dominators.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SpaceRangers2DominatorsReboot" platform="Windows">
     <title>Space Rangers 2: Reboot</title>
@@ -4825,13 +4948,13 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGPACKSPACERANGERS2REBOOT" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Space Rangers 2 - Reboot\Space Rangers 2 - Reboot.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Spectromancer" platform="Windows">
     <title>Spectromancer</title>
     <location_path environment_variable="steamcommon" path="Spectromancer"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SpellForce" platform="Windows">
     <title>SpellForce: The Order of the Dawn</title>
@@ -4916,14 +5039,14 @@
     <location_path environment_variable="public" path="Documents\stalker-shoc" platform_version="Vista"/>
     <save filename="user.ltx"/>
     <save path="savedgames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Starcraft" platform="Windows">
     <title>Starcraft</title>
     <location_path environment_variable="installlocation" path="Starcraft"/>
     <location_registry root="local_machine" key="SOFTWARE\Blizzard Entertainment\StarCraft" value="InstallPath"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Starcraft2" platform="Windows">
     <title>Starcraft II: Wings of Liberty</title>
@@ -4940,13 +5063,13 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Microsoft Games\StarLancer\1.0" value="InstallationDirectory"/>
     <location_shortcut shortcut="Programs\Microsoft Games\StarLancer\StarLancer.lnk"/>
     <save path="SAVES"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Starscape" platform="Windows">
     <title>Starscape</title>
     <location_path environment_variable="userdocuments" path="Starscape"/>
     <save path="data\saves "/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="StarTopia" platform="Windows">
     <title>StarTopia</title>
@@ -4981,7 +5104,7 @@
     <location_registry root="local_machine" key="SOFTWARE\LucasArts Entertainment Company\JediKnight\v1.0" value="Install Path"/>
     <location_shortcut shortcut="Programs\LucasArts\Jedi Knight\Jedi Knight.lnk"/>
     <save path="player"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="StarWarsJediKnightJediAcademy" platform="Windows">
     <title>Star Wars: Jedi Knight: Jedi Academy</title>
@@ -4993,7 +5116,7 @@
     <title>Star Wars: Jedi Knight: Mysteries of the Sith</title>
     <location_path environment_variable="steamcommon" path="jedi knight mysteries of the sith"/>
     <save path="player"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="StarWarsKnightsOfTheOldRepublic" platform="Windows">
     <title>Star Wars: Knights of the Old Republic</title>
@@ -5003,7 +5126,7 @@
     <location_shortcut shortcut="Programs\LucasArts\Star Wars Knights of the Old Republic\ Star Wars Knights of the Old Republic.lnk"/>
     <save path="saves"/>
     <contributer>David Barbour</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="StarWarsKnightsOfTheOldRepublic2TheSithLords" platform="Windows">
     <title>Star Wars: Knights of the Old Republic II: The Sith Lords</title>
@@ -5017,7 +5140,7 @@
     <title>Star Wars: The Clone Wars - Republic Heroes</title>
     <location_path environment_variable="allusersprofile" path="SWTCWRH"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="StarWarsTheForceUnleashed" platform="Windows">
     <title>Star Wars: The Force Unleashed</title>
@@ -5038,7 +5161,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGSTARWOLVES" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Star Wolves\Star Wolves.lnk"/>
     <save path="Profiles"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SteelStormBurningRetribution" platform="Windows">
     <title>Steel Storm: Burning Retribution</title>
@@ -5055,7 +5178,7 @@
     <location_registry root="local_machine" key="SOFTWARE\Microids\StillLife" value="CurrentPath"/>
     <location_shortcut shortcut="Programs\GOG.com\Still Life\Still Life.lnk"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="StreetFighter4" platform="Windows">
     <title>Street Fighter IV</title>
@@ -5082,7 +5205,7 @@
     <location_path environment_variable="appdata" path="capy\SwordAndSworcery"/>
     <save filename="savedata.bin"/>
     <save filename="config.txt" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SuperLaserRacer" platform="Windows">
     <title>Super Laser Racer</title>
@@ -5098,7 +5221,7 @@
     <location_shortcut shortcut="Programs\Team Meat\SuperMeatBoy\Super Meat Boy.lnk"/>
     <save path="UserData"/>
     <contributer>Arc Angel</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SupremeCommander" platform="Windows">
     <title>Supreme Commander</title>
@@ -5114,7 +5237,7 @@
     <save path="replays" type="Replays"/>
     <save path="savegames"/>
     <save filename="Game.prefs" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="SupremeCommanderForgedAlliance" platform="Windows">
     <title>Supreme Commander: Forged Alliance</title>
@@ -5132,13 +5255,13 @@
     <title>Syberia</title>
     <location_path environment_variable="userdocuments" path="Syberia Saves"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Syberia2" platform="Windows">
     <title>Syberia II</title>
     <location_path environment_variable="userdocuments" path="Syberia 2 Saves"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Syndicate2012" platform="Windows">
     <title>Syndicate (2012)</title>
@@ -5150,7 +5273,7 @@
     <title>System Shock 2</title>
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\shock2.exe" value="Path"/>
     <save path="save_*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TachyonTheFringe" platform="Windows">
     <title>Tachyon: The Fringe</title>
@@ -5161,7 +5284,7 @@
     <save filename="*.dat"/>
     <save filename="*.sav"/>
     <save filename="Tachyon.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TalesOfMonkeyIsland1" platform="Windows">
     <title>Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal</title>
@@ -5170,7 +5293,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TalesOfMonkeyIsland2" platform="Windows">
     <title>Tales of Monkey Island Chapter 2: The Siege of Spinner Cay</title>
@@ -5179,7 +5302,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TalesOfMonkeyIsland3" platform="Windows">
     <title>Tales of Monkey Island Chapter 3: Lair of the Leviathan</title>
@@ -5187,7 +5310,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TalesOfMonkeyIsland4" platform="Windows">
     <title>Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood</title>
@@ -5195,7 +5318,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TalesOfMonkeyIsland5" platform="Windows">
     <title>Tales of Monkey Island Chapter 5: Rise of the Pirate God</title>
@@ -5203,7 +5326,7 @@
     <save filename="*.save"/>
     <save filename="prefs.prop" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TankUniversal" platform="Windows">
     <title>Tank Universal</title>
@@ -5236,8 +5359,8 @@
     <save path="modules\*\players" type="Characters"/>
     <save path="modules\*\Save"/>
     <save filename="ToEE.cfg" type="Settings"/>
-    <comment>Also archives expansion saves</comment>
-    <contributer>SanMadJack</contributer>
+    <comment>Includes expansion saves</comment>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TerminatorSalvation" platform="Windows">
     <title>Terminator: Salvation</title>
@@ -5288,7 +5411,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Overseer\Overseer.lnk"/>
     <save path="games"/>
     <save path="players"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TheyreAlive" platform="Windows">
     <title>They're Alive!</title>
@@ -5306,7 +5429,7 @@
     <save path="SAVES" filename="*.sav"/>
     <save filename="user.bnd" type="Settings"/>
     <save filename="USER.CFG" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ThiefDeadlyShadows" platform="Windows">
     <title>Thief: Deadly Shadows</title>
@@ -5314,21 +5437,21 @@
     <location_path environment_variable="public" path="Documents\Thief - Deadly Shadows" platform_version="Vista"/>
     <location_path environment_variable="steamcommon" path="thief deadly shadows\save"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ThiefTheDarkProject" platform="Windows">
     <title>Thief: The Dark Project</title>
     <location_path environment_variable="installlocation" path="Thief"/>
     <location_shortcut shortcut="Programs\Thief\Thief.lnk"/>
     <save path="SAVES"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ThiefTheDarkProjectGold" platform="Windows">
     <title>Thief Gold</title>
     <location_path environment_variable="installlocation" path="ThiefG"/>
     <location_shortcut shortcut="Programs\Thief Gold\Thief.lnk"/>
     <save path="SAVES"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ThrillvilleOffTheRails" platform="Windows">
     <title>Thrillville: Off The Rails</title>
@@ -5343,7 +5466,7 @@
     <location_path environment_variable="savedgames" path="Time Gentlemen, Please" platform_version="Vista"/>
     <location_path environment_variable="userdocuments" path="My Saved Games\Time Gentlemen, Please" platform_version="XP"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TitanQuest" platform="Windows">
     <title>Titan Quest</title>
@@ -5363,7 +5486,7 @@
     <location_registry root="current_user" key="Software\core design\Tomb Raider II" value="AppPath"/>
     <location_shortcut shortcut="Programs\Core Design\Tomb Raider 2\ Tomb Raider II.lnk"/>
     <save filename="savegame.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaider2TheGoldenMask" platform="Windows">
     <title>Tomb Raider II: The Golden Mask</title>
@@ -5372,55 +5495,55 @@
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\t2gold.exe" value="Path"/>
     <location_shortcut shortcut="Programs\Core Design\Tomb Raider II Gold\Tomb Raider II Gold.lnk"/>
     <save filename="savegame.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaider3AdventuresOfLaraCroft" platform="Windows">
     <title>Tomb Raider III: Adventures Of Lara Croft</title>
     <location_path environment_variable="installlocation" path="Core Design\Tomb Raider III"/>
     <save filename="savegame.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaider3TheLostArtifact" platform="Windows">
     <title>Tomb Raider III: The Lost Artifact</title>
     <location_path environment_variable="installlocation" path="Core Design\Tomb Raider - The Lost Artifact"/>
     <save filename="savegame.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaiderAnniversary" platform="Windows">
     <title>Tomb Raider: Anniversary</title>
     <location_path environment_variable="userdocuments" path="Eidos\Tomb Raider - Anniversary"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaiderChronicles" platform="Windows">
     <title>Tomb Raider: Chronicles</title>
     <location_path environment_variable="installlocation" path="Core Design\Tomb Raider Chronicles"/>
     <save filename="savegame.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaiderLegend" platform="Windows">
     <title>Tomb Raider: Legend</title>
     <location_path environment_variable="userdocuments" path="Tomb Raider - Legend"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaiderTheAngelOfDarkness" platform="Windows">
     <title>Tomb Raider: The Angel of Darkness</title>
     <location_path environment_variable="installlocation" path="Eidos Interactive\TRAOD"/>
     <save path="SaveGame"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaiderTheLastRevelation" platform="Windows">
     <title>Tomb Raider: The Last Revelation</title>
     <location_path environment_variable="installlocation" path="Core Design\Tomb Raider - The Last Revelation"/>
     <save filename="savegame.*"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TombRaiderUnderworld" platform="Windows">
     <title>Tomb Raider: Underworld</title>
     <location_path environment_variable="userdocuments" path="Eidos\Tomb Raider - Underworld"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TorchLight" platform="Windows">
     <title>TorchLight</title>
@@ -5444,7 +5567,7 @@
     <title>To the Moon</title>
     <location_path environment_variable="appdata" path="To the Moon - Freebird Games"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Trackmania2" platform="Windows">
     <title>Trackmania 2 Canyon</title>
@@ -5462,7 +5585,7 @@
     <location_path environment_variable="userdocuments" path="TrackMania"/>
     <save path="Profiles"/>
     <save path="Scores" type="Statistics"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TransformersWarForCybertron" platform="Windows">
     <title>Transformers: War for Cybertron</title>
@@ -5481,13 +5604,20 @@
     <title>Tremulous</title>
     <location_path environment_variable="appdata" path="Tremulous"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Trials2SecondEdition" platform="Windows">
     <title>Trials 2: Second Edition</title>
     <location_path environment_variable="localappdata" path="Redlynx\Trials 2 SE"/>
     <save/>
     <contributer>Arc Angel</contributer>
+  </game>
+  <game name="Trine" platform="Windows">
+    <title>Trine</title>
+    <location_path environment_variable="installlocation" path="Trine"/>
+    <location_registry root="local_machine" key="SOFTWARE\trine" value="TrinePath"/>
+    <save path="profile"/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Tron2" platform="Windows">
     <title>Tron 2.0</title>
@@ -5496,7 +5626,7 @@
     <save path="Profiles"/>
     <save path="Save"/>
     <save filename="display.cfg" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="TronEvolution" platform="Windows">
     <title>Tron: Evolution</title>
@@ -5530,6 +5660,12 @@
     <save/>
     <contributer>slake_jones</contributer>
   </game>
+  <game name="Tropico4" platform="Windows">
+    <title>Tropico 4</title>
+    <location_path environment_variable="appdata" path="tropico 4"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="TrueCrimeStreetsOfLA" platform="Windows">
     <title>True Crime: Streets of LA</title>
     <location_path environment_variable="installlocation" path="Activision\True Crime"/>
@@ -5537,7 +5673,7 @@
     <location_shortcut shortcut="Programs\True Crime - Streets of LA\True Crime - Streets of LA.lnk"/>
     <save path="Saves"/>
     <save filename="TrueCrime.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Turok2008" platform="Windows">
     <title>Turok (2008)</title>
@@ -5578,7 +5714,7 @@
     <location_shortcut shortcut="Programs\EA Games\Clive Barker's Undying\Clive Barker's Undying(tm).lnk" detract="System"/>
     <save path="Save"/>
     <save path="System" filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="UniverseAtWarEarthAssault" platform="Windows">
     <title>Universe At War: Earth Assault</title>
@@ -5597,7 +5733,7 @@
     <location_shortcut shortcut="Programs\Unreal Gold\Play Unreal Gold.lnk" detract="System"/>
     <save path="Save"/>
     <save path="System" filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Unreal2" platform="Windows">
     <title>Unreal II: The Awakening</title>
@@ -5610,7 +5746,7 @@
     <location_shortcut shortcut="Programs\GOG.com\Unreal 2 – The Awakening SE\Unreal 2 – The Awakening.lnk"/>
     <save path="Save"/>
     <save path="System" filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="UnrealTournament" platform="Windows">
     <title>Unreal Tournament</title>
@@ -5622,7 +5758,7 @@
     <save path="System" filename="User.ini"/>
     <save path="System" filename="*.ini" type="Settings"/>
     <ignore path="System" filename="User.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="UnrealTournament2004" platform="Windows">
     <title>Unreal Tournament 2004</title>
@@ -5634,18 +5770,22 @@
     <location_shortcut shortcut="Programs\GOG.com\Unreal Tournament 2004\Unreal Tournament 2004.lnk" detract="System"/>
     <save path="Saves"/>
     <save path="System" filename="*.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="UnrealTournament3" platform="Windows">
     <title>Unreal Tournament III</title>
     <location_path environment_variable="userdocuments" path="My Games\Unreal Tournament 3"/>
     <save path="UTGame\SaveData"/>
     <save path="UTGame\Config" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Uplink" platform="Windows">
     <title>Uplink</title>
+    <location_path environment_variable="installlocation" path="GOG.com\Uplink"/>
     <location_path environment_variable="steamcommon" path="uplink"/>
+    <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGUPLINK" value="PATH"/>
+    <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Uplink_is1" value="InstallLocation"/>
+    <location_shortcut shortcut="Programs\GOG.com\Uplink\Uplink.lnk"/>
     <save path="users"/>
     <ignore path="users" filename="debug.log"/>
     <ignore path="users" filename="options"/>
@@ -5653,6 +5793,7 @@
     <save path="userstmp"/>
     <save path="users" filename="options" type="Settings"/>
     <contributer>AdmiringWorm</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="UruCompleteChronicles" platform="Windows">
     <title>Uru: The Complete Chronicles</title>
@@ -5661,7 +5802,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGURUCC" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Myst Uru Complete Chronicles\Myst Uru Complete Chronicles.lnk"/>
     <save path="sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="VampireTheMasqueradeBloodlines" platform="Windows">
     <title>Vampire: The Masquerade - Bloodlines</title>
@@ -5670,8 +5811,8 @@
     <location_registry root="local_machine" key="SOFTWARE\Activision\Vampire - Bloodlines" value="InstallPath"/>
     <location_shortcut shortcut="Programs\Vampire - The Masquerade Bloodlines\Vampire - The Masquerade Bloodlines.lnk"/>
     <save path="Vampire\SAVE"/>
+    <contributer>GameSave.Info</contributer>
     <contributer>Samuel Barbour</contributer>
-    <contributer>SanMadJack</contributer>
   </game>
   <game name="VampireTheMasqueradeRedemption" platform="Windows">
     <title>Vampire: The Masquerade - Redemption</title>
@@ -5679,7 +5820,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGVAMPIRE" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Vampire - The Masquerade - Redemption\Vampire - The Masquerade - Redemption.lnk"/>
     <save path="SaveGames"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="VelvetAssassin" platform="Windows">
     <title>Velvet Assassin</title>
@@ -5700,7 +5841,7 @@
     <location_shortcut shortcut="Programs\Fused Software\BlackOps.lnk"/>
     <identifier filename="Data.rez"/>
     <save path="Save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="VigilBloodBitterness" platform="Windows">
     <title>Vigil: Blood Bitterness</title>
@@ -5709,6 +5850,12 @@
     <location_shortcut shortcut="Programs\Vigil Blood Bitterness\Vigil Blood Bitterness.lnk"/>
     <save path="Vigil\Profiles"/>
     <contributer>Arc Angel</contributer>
+  </game>
+  <game name="VirtualFamilies" platform="Windows">
+    <title>Virtual Families</title>
+    <location_path environment_variable="userdocuments" path="LDW\Virtual Families"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Vivisector" platform="Windows">
     <title>Vivisector: Beast Within</title>
@@ -5729,7 +5876,7 @@
     <title>VVVVVV</title>
     <location_path environment_variable="userprofile" path="VVVVVV"/>
     <save path="Saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="WalkingDead" platform="Windows">
     <title>The Walking Dead</title>
@@ -5741,25 +5888,25 @@
     <title>Wallace &amp; Gromit's Grand Adventures Episode 1: Fright of the Bumblebees</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\Fright of the Bumblebees"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="WallaceAndGrommitsGrandAdventures2" platform="Windows">
     <title>Wallace &amp; Gromit's Grand Adventures Episode 2: The Last Resort</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\The Last Resort"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="WallaceAndGrommitsGrandAdventures3" platform="Windows">
     <title>Wallace &amp; Gromit's Grand Adventures Episode 3: Muzzled!</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\Muzzled"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="WallaceAndGrommitsGrandAdventures4" platform="Windows">
     <title>Wallace &amp; Gromit's Grand Adventures Episode 4: The Bogey Man</title>
     <location_path environment_variable="userdocuments" path="Telltale Games\The Bogey Man"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="WantedWeaponsOfFate" platform="Windows">
     <title>Wanted: Weapons of Fate</title>
@@ -5782,7 +5929,7 @@
     <save path="Saved Games"/>
     <save path="Screenshots" type="Screenshots"/>
     <save path="Settings" type="Settings"/>
-    <comment>Also saves Chaos Rising Extension.</comment>
+    <comment>Includes Chaos Rising expansion</comment>
     <restore_comment>Restoring saves for this game also requires restoring Game for Windows Account Data, which MASGAU automatically backs up in G4WAccountData.</restore_comment>
     <contributer>AvvA</contributer>
   </game>
@@ -5841,7 +5988,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGWC4" value="PATH"/>
     <location_shortcut shortcut="Programs\GOG.com\Wing Commander IV\Wing Commander IV.lnk"/>
     <save filename="*.WSG"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="WingsOfPrey" platform="Windows">
     <title>Wings of Prey</title>
@@ -5853,7 +6000,7 @@
     <title>The Witcher</title>
     <location_path environment_variable="userdocuments" path="The Witcher"/>
     <save path="saves"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Witcher2" platform="Windows">
     <title>The Witcher 2: Assassin of Kings</title>
@@ -5902,14 +6049,14 @@
     <location_shortcut shortcut="Programs\MicroProse\Worms2\Sound Bank Editor.lnk"/>
     <save path="Saves"/>
     <save path="Teams" type="Teams"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="X2TheThreat" platform="Windows">
     <title>X2: The Threat</title>
     <location_path environment_variable="steamcommon" path="x2 - the threat"/>
     <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\X2 Key" value="Path"/>
     <save filename="*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="X3AlbionPrelude" platform="Windows">
     <title>X3: Albion Prelude</title>
@@ -5921,7 +6068,7 @@
     <title>X3: Reunion</title>
     <location_path environment_variable="userdocuments" path="Egosoft\X3"/>
     <save path="save"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="X3TerranConflict" platform="Windows">
     <title>X3: Terran Conflict</title>
@@ -5941,7 +6088,7 @@
     <title>The X-Files</title>
     <location_path environment_variable="installlocation" path="Fox\The X-Files"/>
     <save filename="*.x"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="XIII" platform="Windows">
     <title>XIII</title>
@@ -5950,7 +6097,7 @@
     <location_shortcut shortcut="Programs\GOG.com\XIII\XIII.lnk" detract="system"/>
     <save path="Save"/>
     <save path="system" filename="XIII.ini" type="Settings"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="XMenOriginsWolverine" platform="Windows">
     <title>X-Men Origins: Wolverine</title>
@@ -5993,7 +6140,7 @@
     <location_path environment_variable="allusersprofile" path="Application Data\Pendulo Studios\Yesterday" platform_version="XP"/>
     <location_path environment_variable="allusersprofile" path="Pendulo Studios\Yesterday" platform_version="Vista"/>
     <save path="SAVEGAME"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ZenoClash" platform="Windows">
     <title>Zeno Clash</title>
@@ -6005,7 +6152,7 @@
     <title>Ziro</title>
     <location_path environment_variable="userdocuments" path="My Games/Ziro"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ZombieDriver" platform="Windows">
     <title>Zombie Driver</title>
@@ -6031,7 +6178,7 @@
     <location_registry root="local_machine" key="SOFTWARE\GOG.com\GOGZORKDARKINQUISITOR" value="PATH"/>
     <location_shortcut shortcut="GOG.com\Zork Grand Inquisitor\Zork Grand Inquisitor.lnk"/>
     <save filename="inqsav*.sav"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="ZumaDeluxe" platform="Windows">
     <title>Zuma Deluxe</title>

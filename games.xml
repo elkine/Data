@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-11T17:19:23">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-18T14:49:34">
   <!--This file contains games that have saves that are compatible with more than one platform-->
   <game name="Altitude">
     <title>Altitude</title>
@@ -11,34 +11,40 @@
     <title>Battle For Wesnoth</title>
     <location_path environment_variable="userprofile" path=".wesnoth"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DinsCurse">
     <title>Din's Curse</title>
     <location_path environment_variable="localappdata" path="DinsCurse"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="DontTakeItPersonallyBabeItJustAintYourStory">
     <title>don't take it personally, babe, it just ain't your story</title>
     <location_path environment_variable="appdata" path="RenPy\digital2-1298756237"/>
     <save/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="fs2_open">
     <title>fs2_open</title>
     <location_path environment_variable="installlocation" path="fs2_open"/>
-    <location_game name="FreeSpace2" platform="Windows"/>
+    <location_game platform="Windows" name="FreeSpace2"/>
     <identifier filename="fs2_open*"/>
     <save path="data\players"/>
-    <comment>Doesn't have a default install folder, so might require an Alt. Install Path.</comment>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="HalfLifeSource">
     <title>Half-Life: Source</title>
     <location_path environment_variable="steamuser" path="half-life source\hl1"/>
     <save path="SAVE"/>
-    <contributer>SanMadJack</contributer>
+    <contributer>GameSave.Info</contributer>
+  </game>
+  <game name="Minecraft">
+    <title>Minecraft</title>
+    <location_path environment_variable="appdata" path=".minecraft"/>
+    <location_path environment_variable="userprofile" path=".minecraft"/>
+    <save path="saves"/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="UrQuanMasters">
     <title>The Ur-Quan Masters</title>
