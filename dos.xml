@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-18T14:48:14">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-20T04:00:10">
   <!--This file contains games that are for the DOS platform. Most of these make use of DOSBOX for their installs.-->
   <game name="AloneInTheDark" platform="DOS">
     <title>Alone in the Dark</title>
@@ -486,7 +486,7 @@
   </game>
   <game name="TombRaiderUnfinishedBusiness" platform="DOS">
     <title>Tomb Raider: Unfinished Business</title>
-    <location_game platform="DOS" name="TombRaider"/>
+    <location_game name="TombRaider" platform="DOS"/>
     <identifier filename="SAVEUB.*"/>
     <save filename="SAVEUB.*"/>
     <contributer>GameSave.Info</contributer>

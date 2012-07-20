@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-18T15:05:34">
+<games majorVersion="1" minorVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="games.xsd" date="2012-07-20T04:35:46">
   <!--This file contains game for Microsoft Windows-->
   <game name="18WheelsOfSteelExtremeTrucker" platform="Windows">
     <title>18 Wheels of Steel: Extreme Trucker</title>
@@ -367,7 +367,7 @@
     <contributer>GameSave.Info</contributer>
   </game>
   <game name="Armada2526Supernova" platform="Windows">
-    <title>Armada 2526: Supernocva</title>
+    <title>Armada 2526: Supernova</title>
     <location_game name="Armada2526" platform="Windows" append="Supernova"/>
     <save filename="*.2526sav"/>
     <contributer>GameSave.Info</contributer>
@@ -396,6 +396,7 @@
   </game>
   <game name="AssassinsCreedBrotherhood" platform="Windows">
     <title>Assassin's Creed: Brotherhood</title>
+    <location_path environment_variable="appdata" path="Ubisoft\Assassin's Creed Brotherhood" platform_version="XP"/>
     <location_path environment_variable="savedgames" path="Assassin's Creed Brotherhood" platform_version="Vista"/>
     <save/>
     <contributer>Arc Angel</contributer>
@@ -3270,6 +3271,12 @@
     <save/>
     <contributer>duncans_pumpkin</contributer>
   </game>
+  <game name="MaxPayne3" platform="Windows">
+    <title>Max Payne 3</title>
+    <location_path environment_variable="userdocuments" path="Rockstar Games\Max Payne 3"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="MDK" platform="Windows">
     <title>MDK</title>
     <location_path environment_variable="installlocation" path="GOG.com\MDK"/>
@@ -3956,6 +3963,12 @@
     <save/>
     <contributer>GameSave.Info</contributer>
   </game>
+  <game name="PiratesOfBlackCove" platform="Windows">
+    <title>Pirates of Black Cove</title>
+    <location_path environment_variable="userdocuments" path="Nitro Games/PiratesOfBlackCove"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
+  </game>
   <game name="PlanescapeTorment" platform="Windows">
     <title>Planescape: Torment</title>
     <location_path environment_variable="installlocation" path="Black Isle\Planescape - Torment"/>
@@ -4012,6 +4025,12 @@
     <location_shortcut shortcut="Programs\GOG.com\Port Royale\Port Royale.lnk"/>
     <save path="Save"/>
     <contributer>David Barbour</contributer>
+  </game>
+  <game name="PortRoyale3" platform="Windows">
+    <title>Port Royale 3: Pirates &amp; Merchants</title>
+    <location_path environment_variable="appdata" path="kalypso Media/Port Royal 3"/>
+    <save/>
+    <contributer>GameSave.Info</contributer>
   </game>
   <game name="Postal" platform="Windows">
     <title>Postal</title>
