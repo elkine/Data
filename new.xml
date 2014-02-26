@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="GameSaveInfo20.xsd"
-	majorVersion="2" minorVersion="0" updated="2011-12-25T00:00:00">
-  <!-- Staging file for the adding of entries -->
-  
+  xsi:noNamespaceSchemaLocation="GameSaveInfo202.xsd"
+  majorVersion="2" minorVersion="0" revision="2" updated="2011-12-25T00:00:00">
 
-  
+
+  <!-- 	Staging file for the adding of entries.
+    If you are modifying an existing entry, copy-paste the entire entry into this file
+    so that the update system can automatically change the update time
+    This is the ONLY XML file that can provide duplicate entries without causing an error,
+    The entries in this file will OVERRIDE the entries in ALL other files.
+    If this file contains duplicate entries only the LAST one will end up being used
+  -->
+
+
   <!--  
+  This is a quick profile template, makes it easy:
   <game name="">
     <title></title>
     <version os="Windows">
@@ -21,6 +29,8 @@
       <contributor></contributor>
     </version>
   </game>
+  
+  These are entries that need further review before being added
    <game name="ThePath">
     <title>The Path</title>
     <version os="Windows">
@@ -36,6 +46,146 @@
     </version>
   </game>
 
-
+  
+    <game name="AgeOfEmpiresOnline">
+    <title>Age of Empires Online</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="Spartan" />
+      </locations>
+      <files>
+        <include />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  
+    <game name="AlexanderTheGreat">
+    <title>Alexander the Great</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="Sparta II" />
+      </locations>
+      <files>
+        <include />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  <game name="FractalMakeBloomsNotWar">
+    <title>Fractal: Make Blooms Not War</title>
+    <version os="Windows">
+      <locations />
+      <registry type="Saves">
+        <entry root="current_user" key="Software\Cipher Prime Studios, Inc.\Fractal" value="Saves" />
+      </registry>
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  <game name="RetroCityRampage">
+    <title>Retro City Rampage</title>
+    <version os="Windows">
+      <locations>
+        <path ev="appdata" path="RetroCityRampage" />
+      </locations>
+      <files>
+        <include />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  
+    <game name="Godfather">
+    <title>The Godfather</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="GF" />
+      </locations>
+      <files>
+        <include />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  <game name="Towns">
+    <title>Towns</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userprofile" path=".towns" />
+        <path ev="steamcommon" path="towns" />
+        <path ev="steamcommon" path="towns" />
+      </locations>
+      <files>
+        <include />
+        <include path="" filename="TownsModManager.exe" />
+        <include path="" filename="README.txt" />
+        <include path="" filename="Ionic.Zip.dll" />
+        <include path="mods" />
+        <include path="tsm" />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+      <linkable path="" />
+      <linkable path="tsm" />
+    </version>
+  </game>
+  <game name="MasterOfOrion3">
+    <title>Master of Orion 3</title>
+    <version os="Windows">
+      <locations>
+        <path ev="installocation" path="VirtualStore\Program Files (x86)\GOG.com\Master of Orion 3" />
+      </locations>
+      <files>
+        <include />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  <game name="ORBOffWorldResourceBase">
+    <title>O.R.B: Off-World Resource Base</title>
+    <version os="Windows">
+      <locations>
+        <path ev="localappdata" path="VirtualStore\Program Files (x86)\Strategy First\O.R.B" />
+      </locations>
+      <files>
+        <include />
+      </files>
+      <linkable />
+      <contributor>GameSaveManager</contributor>
+    </version>
+  </game>
+  <game name="Zigfrak">
+    <title>Zigfrak</title>
+    <version os="Windows">
+      <locations />
+      <registry type="Saves">
+        <entry root="current_user" key="Software\Entheogen\Zigfrak" value="Saves" />
+      </registry>
+    </version>
+  </game>
+    <game name="10000000">
+    <title>10,000,000</title>
+    <version os="Windows">
+      <locations />
+      <registry type="Saves">
+        <entry root="current_user" key="Software\EightyEightGames\10000000" value="Saves" />
+      </registry>
+    </version>
+  </game>
+    <game name="DungeonHearts">
+    <title>Dungeon Hearts</title>
+    <version os="Windows">
+      <locations />
+      <registry type="Saves">
+        <entry root="current_user" key="Software\CubeRoots\DungeonHearts" value="Saves" />
+      </registry>
+    </version>
+  </game>
 -->
+
 </programs>

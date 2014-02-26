@@ -1,5 +1,1047 @@
-Game to look into: DiRT, The PATH
+Games to look into: DiRT, The PATH
+=ToDo=
+* GoG Outlast
+* Steam pipe games
+
 =Upcoming=
+=2/24/2014=
+New Games
+* Air Forte
+* Anomaly Korea
+* Anomaly 2
+* Bad Hotel - Steam Only
+* Broken Age
+* Deus Ex: Human Revolution Director's Cut
+* Sentinel 3: Homeworld
+* Ricochet
+* Sanctum 2
+
+* Brothers: A Tale of Two Sons - Contributed by Scandalon
+
+* Shadowrun Returns - Contributed by Feline_Quota
+* The King Of Fighters XIII - Steam only - Contributed by Feline_Quota
+* Zeus: Master of Olympus - Contributed by beppe9000
+
+Contributed by Arc Angel:
+* Battlefield 4
+* Call of Duty: Ghosts - Steam only
+* Deadfall Adventures - Steam only
+
+Updated for SteamPipe:
+* Counter-Strike: Condition Zero: Deleted Scene
+* Deathmatch Classic
+* Half-Life: Blue Shift
+* Half-Life: Opposing Force
+* Half-Life: Source
+* Half-Life Deathmatch: Source
+* Half-Life 2: Episode One
+* Half-Life 2: Episode Two
+* Half-Life 2: Lost Coast 
+* SiN
+* Team Fortress Classic
+
+Updated
+* Descent - Added Steam path
+* Final Fantasy VII - Added Steam path
+* Final Fantasy VIII - Added Steam path
+* Left 4 Dead and Left 4 Dead to handle multiple languages
+* System Shock 2 - Added Steam path
+
+=2014-01-28=
+* Long Live The Queen
+* Papers, Please
+* Updated Half-Life 2 for SteamPipe
+* Updated Portal for SteamPipe
+
+* Saint's Row IV - Contributed by Thomas Joiner
+
+* Added Steam path for Knights of the Old Republic 2 - Contributed by savethelost007
+
+Contributed by Arc Angel:
+* Batman: Arkham Asylum - Added SteamCloud info
+* Castlevania: Lords of Shadow - Steam only
+* Darkness Within 2 - Latest patch moved save location
+* Lost Planet 3
+* Mars: War Logs
+* Operation Thunderstorm (Vista/7 only)
+* Outlast - Steam path
+* Remember Me
+* Shadow Warrior (2013)
+* Splinter Cell: Blacklist - Ubisoft save storage
+* Star Trek (2013) - Added Steam cloud path
+
+Contributed by Anonymous Hero
+* Champion Dreams
+* Horsez
+* Petz Horsez
+* Petz Horsez 2
+* Petz Horse Club
+* Saddle Up: Time To Ride
+
+=2013-06-15=
+* Voxatron
+Contributed By Scandalon
+* Perspective
+* Ur-Quan Masters HD
+Contributed By LVS
+* DLC Quest
+Contributed by Arc Angel
+* BioShock Infinite
+* Brutal Legend PC
+* Resident Evil 6
+* Tomb Raider (2013)
+Contributed by rlabrecque
+* Tony Hawk's Pro Skater 3
+Contributed By Alessandro
+* Drive To The Titanic
+* Hidden and Dangerous Deluxe
+* Panzer Elite Action: Dunes of War
+* Panzer Elite Action: Fields of Glory
+* Worms Crazy Golf
+Contributed by AdmiringWorm
+* Sniper: Ghost Warrior 2
+Contributed by GameSaveManager
+* 1000 Amps
+* Academagia
+* Age of Empires II HD
+* Animal Color Cross
+* Anodyne
+* Antichamber
+* Armed and Dangerous
+* AstroPop Deluxe
+* Auditorium
+* Bad Piggies
+* Blade: The Edge of Darkness
+* Blood Bowl: Chaos Edition
+* Brave: The Video Game
+* Bridge Project
+* Burger Shop 2
+* Call of Juarez® Gunslinger
+* Children of the Nile
+* City of Fools
+* CivCity: Rome
+* Claustrophobia: The Downward Struggle
+* Cooper's Revenge
+* Crayon Chronicles
+* Cry of Fear
+* Dark Matter
+* Darkout
+* Doom and Destiny
+* Driftmoon
+* Duke Nukem 3D (Steam Cloud)
+* Dust: An Elysian Tail
+* Evil Islands: Curse of the Lost Soul
+* Evoland
+* Fairway
+* Far Cry 3: Blood Dragon
+* Farm Frenzy 3: Ice Age
+* Farm Frenzy 3: Madagascar
+* Farm Frenzy 4: Gone Fishing
+* Farm Frenzy: Pizza Party
+* Farm Frenzy: Viking Heroes
+* FATE
+* FATE: The Cursed King
+* FATE: The Traitor Soul
+* FATE: Undiscovered Realms
+* FEZ
+* Final Fantasy XIV: A Realm Reborn Beta
+* Fishdom: Harvest Splash
+* Game Dev Tycoon
+* Gardenscapes 2
+* Gear Jack
+* Gemsweeper
+* Grim Dawn
+* Gunpoint
+* Half-Life 2 Mod - Black Snow
+* Half-Life: Gunman
+* Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement
+* Hidden & Dangerous 2
+* HitBlock
+* iBomber Defense Pacific
+* Impire
+* Island Tribe 2
+* Kentucky Route Zero
+* Kerbal Space Program
+* Krater
+* Lair Of The Evildoer
+* LaserCat
+* Lightfish
+* Light of Altair
+* Lucius
+* Mars: War Logs
+* Marvins' Mittens
+* Mayan Prophecies: Ship of Spirits
+* Memento Mori 2
+* Miasmata
+* Monaco
+* MotioninJoy
+* Nancy Drew: Danger by Design
+* Nancy Drew: Legend of the Crystal Skull
+* Nancy Drew: Ransom of the Seven Ships
+* Nancy Drew: Secrets Can Kill REMASTERED
+* Nancy Drew: Shadow at the Water's Edge
+* Nancy Drew: The Captive Curse
+* Nancy Drew: The Creature of Kapu Cave
+* Nancy Drew: The Deadly Device
+* Nancy Drew: The Haunting of Castle Malloy
+* Nancy Drew: The Phantom of Venice
+* Nancy Drew: The White Wolf of Icicle Creek
+* Nancy Drew: Tomb of the Lost Queen
+* Nancy Drew: Trail of the Twister
+* Nancy Drew: Warnings at Waverly Academy
+* Need for Speed: Porsche Unleashed
+* Ninja Reflex
+* Northern Tale
+* Open Broadcaster Software
+* Out of the Park Baseball 2011
+* Out of the Park Baseball 2012
+* Path of Exile
+* Peter Jackson's King Kong - Gamers Edition
+* Pid
+* Planet Explorers
+* Poker Night 2
+* Postal 2 Complete
+* Praetorians
+* Primordia
+* PuppetShow: Destiny Undone
+* PuppetShow: Lost Town
+* PuppetShow: Mystery of Joyville
+* PuppetShow: Return to Joyville
+* PuppetShow: Souls of the Innocent
+* Puzzle Bots
+* Race Driver: GRID 2
+* Rally Trophy
+* Real Heroes: Firefighter
+* Resident Evil 6
+* Resident Evil: Revelations
+* ResidualVM
+* Reus
+* Rocketbirds: Hardboiled Chicken
+* Saitek SD6 Profiles
+* SHMUP
+* Silent Hill 3
+* Silent Hill 4
+* Sniper Elite: Nazi Zombie Army
+* Sons Of Triskelion
+* StarDrive
+* Star Trek (2013)
+* Stronghold Legends
+* Super Amazing Wagon Adventure
+* Sword of the Stars: The Pit
+* The Basement Collection
+* The Bridge
+* The Even More Incredible Machine
+* The Incredible Adventures of Van Helsing
+* The Sea Will Claim Everything
+* The Settlers II - 10th Anniversary
+* The Stanley Parabel
+* The Swapper
+* The Tiny Bang Story
+* The Trouble With Robots
+* The Walking Dead: Survival Instinct
+* Transcipted
+* Treasure Adventure Game
+* Trials Evolution: Gold Edition
+* Ultramon
+* Unepic
+* Wild Earth Africa
+* Winter Voices
+* World Mosaics 6
+* Ys I & II: Chronicles+
+
+=2013/02/23=
+* Legacy of Kain: Blood Omen 2
+* System Shock 2 - Added GoG info
+Contributed by Arc Angel
+* DmC: Devil May Cry - Steam info
+Contributed by simtech76
+* Castle Crashers - Steam only
+* Crysis 3
+* Dead Space 3
+* Sins of a Solar Empire: Rebellion
+Contributed by Anonymouse Hero
+* Ellen Whittaker's Horse Life
+* My Riding Stables 2
+* WolfQuest
+Contributed by GameSaveManager
+* 1NSANE
+* 30 Minute Hero: Super Mega Neo Climax Ultimate Boy
+* Ace Combat: Assault Horizon
+* Aliens: Colonial Marines
+* ArmA: Cold War Assault
+* A Walk In The Dark
+* Bleed
+* Carrier Command: Gaia Mission
+* Cherry Tree High Comedy Club
+* Chessmaster 9000
+* Chivalry: Medieval Warfare
+* Creatures 3
+* Crusaders: Thy Kingdom Come
+* Dark Places - Quake Mod
+* Dead Pixels
+* Defender's Quest: Valley of the Forgotten
+* Devil May Cry 3 - Added steam info
+* DmC Devil May Cry - Windows info
+* Dune 2 Legacy
+* Fieldrunners
+* Fieldrunners 2
+* Galactic Arms Race
+* GEAR
+* Gods vs Humans
+* Korsakovia
+* La-Mulana
+* Might & Magic: Clash of Heroes
+* Nightmare House 2
+* ProGammaX
+* Proteus
+* Puzzler World 2
+* Retrovirus
+* Scoregasm
+* Scribblenauts Unlimited
+* Soul Reaver 2
+* Splice
+* Stealth Bastard Deluxe
+* Super Hexagon
+* The Cave
+* Tomb Raider - Steam info
+* Virtual City
+* Warlock: Master of the Arcane
+* Worms Blast
+
+
+=2012/2/3=
+* Age of Wonders II: Added GoG info
+* Age of Wonders: Shadow Magic - Added more GoG info
+* Depserados - Added GoG info
+* Dungeon Keeper II - Added more GoG info
+* Far Cry 3 - Contributed by thereid84
+* Hotline Miami - Added GoG info
+* In Cold Blood
+* Jack Orlando: Director's Cut
+* Lords of the Realm III
+* Populous 2
+* Populous: The Beginning
+* Runaway 2 - Added GoG info
+* Strike Suite Zero
+* Stronghold - Deprecated old save locations, moved to dcuments folder
+* SpecOps: The Update - Contributed by Arc Angel
+
+Contributed by AdmiringWorm
+* The Book of Unwritten Tales - Added Settings path
+* Euro Truck Simulator 2
+* Omerta: City of Gangsters
+
+Contributed by GameSaveManager
+* 10 Days to Save the World
+* 18 Wheels of Steel: Across America
+* 18 Wheels of Steel: Extreme Trucker 2
+* Achtung Panzer: Operation Star
+* Adam's Venture 2
+* Affair Bureau
+* A Game of Dwarves
+* Age of Oracles: Tara's Journey
+* Agricultural Simulator 2011
+* Airline Tycoon 2
+* Airport Control Simulator
+* Aladdin and the Wonderful Lamp: The 1001 Nights
+* Algodoo
+* America's Army 3
+* Anno 1404: Dawn of Discovery
+* Anno 1404: Venice
+* Apache: Air Assault
+* Archibald's Adventures
+* Archon Classics
+* ArmA 2: REINFORCEMENTS
+* Assassin's Creed 3
+* Atomic City Adventures: The Case of the Black Dragon
+* AutoClubRevolution
+* Autumn's Treasures: The Jade Coin
+* A Virus Named Tom
+* Awakening: The Dreamless Castle
+* Awesomenauts
+* Axis & Allies (2004)
+* Azada: Ancient Magic
+* Backyard Sports Sandlot Sluggers
+* Battlefield 1942
+* Battlefield Play4Free
+* Battlefield Vietnam
+* Battlestar Galactica
+* Battle vs. Chess
+* BBC Battlefield Academy
+* Beat Hazard
+* BEEP
+* Beijing 2008
+* Belkin Nostromo n52te
+* Binary Domain
+* Blacksite: Area 51
+* Blocks That Matter
+* Blood Ties
+* Bloody Good Time
+* Boogie Bunnies
+* Boonka
+* Born Into Darkness
+* Botanicula
+* Boulder Dash XL
+* BoXiKoN
+* Bunch of Heroes
+* Call of Duty: Black Ops II
+* Call to Power 2
+* Carrier Command
+* Cars: Toon Mater's Tall Tales
+* Cassandra's Journey 2: The Fifth Sun of Nostradamus
+* Cassandra's Journey: The Legacy of Nostradamus
+* Caster
+* Catwoman
+* Deponia 2: Chaos on Deponia
+* Checkers-7
+* Chess-7
+* Chicken Invaders 4: Ultimate Omelette
+* Chronostorm
+* City Sights: Hello, Seattle!
+* Cloning Clyde
+* Club Control
+* Cobalt
+* Coconut Queen
+* Codename Panzers: Cold War
+* Colour Bind
+* Combat Mission: Afghanistan
+* Combat Mission: Battle for Normandy
+* Combat Zone: Special Forces
+* Commandos Strike Force
+* Cortex Command
+* Crash Time 4: The Syndicate
+* Create
+* CreaVures
+* Creed Arena
+* Culpa Innata
+* Cyberstorm 2: Corporate Wars
+* DaisyWords
+* Darksiders II
+* Darkstar: The Interactive Movie
+* DCS: A-10C Warthog
+* DCS: World
+* DC Universe Online
+* Dead Block
+* Dead Horde
+* Dead Island
+* Deadlight
+* Deathmatch Classic
+* Defenders of Law
+* Defy Gravity
+* Delta Force: Black Hawk Down
+* Deluxe Hotel Imperium
+* Demolition Company
+* Department 42: The Mystery of the Nine
+* Detour
+* Deus Machina Demonbane
+* Devastation
+* Dexter: The Game
+* Diamond Dan
+* Dishonored
+* Disney Universe
+* Dive: The Medes Islands
+* DJMAX Trilogy
+* Don't Starve
+* Doom 3 BFG Edition
+* DoomsDay
+* Drawn: The Painted Tower
+* Dress Up Rush
+* Drox Operative
+* Dungeonbowl
+* Dwarfs
+* Dynamite Jack
+* EDGE
+* Elemental: Fallen Enchantress
+* Elementals: The Magic Key
+* Elements of War
+* Emberwind
+* Empire at War
+* Enlightenus
+* Enter the Matrix
+* Escape Rosecliff Island
+* F1 2012
+* F1 RACE STARS™
+* Fairy Island
+* Far Cry 3
+* Farming Simulator 2009
+* Farming Simulator 2010
+* Farming Simulator 2013
+* Fate of the World
+* Feeding Frenzy 2
+* Ferrari Virtual Race
+* FIFA 13
+* FIFA Manager 07
+* FIFA Manager 08
+* FIFA Manager 09
+* FIFA Manager 10
+* FIFA Manager 11
+* FIFA Soccer 2007
+* FIFA Soccer 2008
+* FIFA Soccer 2009
+* FIM Speedway Grand Prix 4
+* Football Manager 2006
+* Football Manager 2007
+* Football Manager 2013
+* Forsaken World
+* Fortix 2
+* Front Mission Evolved
+* Fruit Ninja HD
+* Future Wars
+* Galaxy on Fire 2 HD
+* Galcon Fusion
+* Garden Defense
+* Gateways
+* Giana Sisters: Twisted Dreams
+* Global Agenda
+* Global Ops: Commando Libya
+* Glowfish
+* Gnomoria
+* Grand Theft Auto
+* Ground Control [GOG Version]
+* GundeadliGne
+* Gundemonium Collection
+* Gundemonium Recollection
+* Half-Life 2 Mod - FakeFactory CM11
+* Half-Life 2 Mod - FakeFactory CM11: Episode 1
+* Half-Life 2 Mod - FakeFactory CM11: Episode 2
+* Half-Life 2 Mod - FakeFactory CM9
+* Half-Life 2 Mod - FakeFactory CM9: Episode 1
+* Half-Life 2 Mod - FakeFactory CM9: Episode 2
+* Half-Life Deathmatch: Source
+* Hamilton's Great Adventure
+* Harry Potter and the Deathly Hallows: Part 1
+* Harry Potter and the Deathly Hallows: Part 2
+* Harveys Neue Augen
+* Hawken
+* Hearts of Iron 3
+* Helldorado
+* Hell Yeah! Wrath of the Dead Rabbit
+* Heroes of Might and Magic IV
+* Heroes of Might and Magic V: Martillos del Destino
+* Heroes of Newerth
+* HISTORY Great Battles Medieval
+* Hitman: Absolution
+* Hitogata Happa
+* HOARD: Dynamite Roll!
+* Hot Wheels
+* Hoyle Card Games
+* Hoyle Games
+* Hoyle Puzzle and Board Games
+* Ignite
+* IL-2 Sturmovik: Cliffs of Dover
+* Incredipede
+* Inside a Star-Filled Sky
+* Insurgency
+* Intrusion 2
+* Iron Grip: Marauders
+* Jagged Alliance: Crossfire
+* Jane's Advanced Strike Fighters
+* Jazz Jackrabbit 2
+* Jekyll & Hyde
+* Jenny's Fish Shop
+* Jet Set Radio
+* John Daly's Pro Stroke Golf 2010
+* Journalist Journey: The Eye of Odin
+* Jungle Racers
+* Kelly Green: Garden Queen
+* King's Bounty: Crossworlds
+* King's Bounty: Warriors of the North
+* Kitten Sanctuary
+* Kung Fu Panda
+* Kung Fu Strike - The Warrior's Rise
+* League of Legends
+* Left Behind 3: Rise of the Antichrist
+* Legend: Hand of God
+* Lego® Harry Potter™ Years 1 - 4
+* Lego® Harry Potter™ Years 5 - 7
+* LEGO Racers 2
+* LEGO The Lord of the Rings
+* Line Rider
+* Lionheart: Kings' Crusade
+* Little Inferno
+* Lost Realms: The Curse of Babylon
+* Lost Via Domus
+* Lumines
+* Luxor: Fifth Passage
+* Luxor HD
+* Madagascar
+* Magic: The Gathering - Duels of the Planeswalkers 2013
+* Mah Jong Quest
+* Mah Jong Quest 2
+* Mah Jong Quest 3
+* Mahjong Suite
+* Major League Baseball 2011
+* ManiaPlanet
+* Mari0
+* Mark of the Ninja
+* Marvel VS
+* MDK 2 HD
+* MechWarrior 2: 31st Century Combat
+* MechWarrior 2: Mercenaries
+* Men of Valor
+* Men of War: Condemned Heroes
+* Metro 2033
+* M.I.A. Mission in Asia
+* Miasma: Citizens of Free Thought
+* Might & Magic Heroes VI
+* Miner Wars 2081
+* Mischief by Alimardankhan
+* Missionforce: Cyberstorm
+* Monday Night Combat
+* Monkey Island™ Collection
+* Monopoly - Spongebob Squarepants Edition
+* Mortyr: Operation Thunderstorm
+* Mr. Jones' Graveyard Shift
+* MX vs ATX Reflex
+* Mysterious City: Vegas
+* Mysterious Travel: The Magic Diary
+* Mystery in London
+* Mystical Solitaire
+* Nail'd
+* Nancy Drew: Alibi in Ashes
+* Nat Geo Adventure: Lost City of Z
+* Nat Geo Games: Mystery of Cleopatra
+* NBA 2K10
+* NBA 2K13
+* NBA 2K9
+* NBA Live 07
+* NBA Live 08
+* Need for Speed: Most Wanted [2012]
+* Neighbours From Hell
+* Neighbours from Hell 2: On Vacation
+* Nexuiz
+* NHL 06
+* NHL 07
+* NHL 08
+* NHL 10
+* Noitu Love 2: Devolution
+* Nuclear Dawn
+* Officers
+* Off-Road Drive
+* Onimusha 3
+* Painkiller: Hell and Damnation
+* Painkiller: Resurrection
+* Paradise Quest
+* PAYDAY: The Heist
+* PegIt
+* Pirates of the Caribbean: At World's End
+* Pirates, Vikings, and Knights 2
+* Prison Architect
+* Pro Evolution Soccer 5
+* Pro Evolution Soccer 6
+* PT Boats: South Gambit
+* Puddle
+* Purify Puzzle
+* Puzzlegeddon
+* Puzzle Hero
+* Quake Live
+* Quantum Conundrum
+* Ravaged
+* R.A.W. Realms of Ancient War
+* Real Crimes: Jack the Ripper
+* Real Warfare 2: Northern Crusades
+* Reaxxion
+* Reel Deal Slots Adventure World Tour
+* Reload: Target Down
+* Renegade Ops
+* Resonance
+* Restaurant Empire 2
+* Revolution Under Siege
+* Ridge Racer Unbounded
+* RIFT
+* Rigonauts
+* Risk Factions
+* Royal Marines Commando
+* Rugby Challenge
+* Sacred
+* Samurai Warriors 2
+* Saving Private Sheep
+* SBK: Superbike World Championship 2011
+* Scavenger
+* Scooby Doo: First Frights
+* Secret Mission: The Forgotten Island
+* Secret of the Magic Crystal
+* Sengoku
+* Shad'O
+* Shellshock 2: Blood Trails
+* Shogun 2: Total War
+* Shutter Island
+* Sine Mora
+* SkyDrift
+* Smite
+* So Blonde
+* Soldier of Fortune
+* SolSuite
+* Sonic Adventure 2
+* Space Colony
+* Spear of Destiny
+* Spec Ops: The Line
+* Spirits
+* Spring
+* Star Conflict
+* Starpoint Gemini
+* Star Ruler
+* Starship Troopers
+* Star Trek Online
+* Star-Twine
+* Star Wolves 3: Civil War
+* Steel Armor
+* Stoked: Big Air Edition
+* Storm: Frontline Nation
+* Street Karate
+* Strike Ball 2
+* Sudoku Up
+* Super Cow
+* Super Crate Box
+* Superior Save
+* Supertuxcart
+* Supreme Ruler: Cold War
+* Swarm Arena
+* Tank Combat
+* Team Fortress Classic
+* Tekkit (full)
+* The Amazing Spider-Man
+* The Baconing
+* The Beast Within
+* The Binding of Isaac
+* The Clumsys
+* The Clumsys 2: Butterfly Effect
+* The Elder Scrolls V: Skyrim (Plugins)
+* The Fall: Last Days of Gaia
+* The First Templar
+* The Godfather
+* The Haunted: Hell's Reach
+* The Humans
+* The Lord of the Rings: War of the Ring
+* The Otherside: Realm of Eons
+* The Polynomial
+* The Race for the White House
+* The Rockin' Dead
+* The Settlers: Rise of an Empire Gold Edition
+* The Tomorrow War
+* The Tudors
+* They Bleed Pixels
+* Thief III: Deadly Shadows
+* Tibia
+* Tiny and Big: Grandpa's Leftovers
+* Tobe's Vertical Adventure
+* Tony Hawk's Pro Skater HD
+* Total War Battles: Shogun
+* Towns
+* Trino
+* Turning Point: Fall of Liberty
+* Ultimate Stunts
+* Under a Killing Moon
+* Unity of Command
+* Up
+* VDrift
+* Vietcong 2
+* Virtual Villagers 4: The Tree of Life
+* Virtual Villagers 5: New Believers
+* Waking Mars
+* Warfare Reloaded
+* Warhammer: Battle March
+* War Inc. Battlezone
+* Warriors Orochi
+* Warsow
+* War Thunder
+* Waves
+* White Gold (Xenus 2)
+* Wildlife Park 3
+* Wing Commander Saga: The Darkest Dawn
+* Winning Eleven 9
+* Winter Sports 2011
+* Winter Sports 2012
+* Wisegal
+* Wizard's Hat
+* Women's Murder Club: A Darker Shade of Grey
+* Women's Murder Club: Death in Scarlet
+* Women's Murder Club: Little Black Lies
+* Women's Murder Club: Twice in a Blue Moon
+* World of Tanks
+* Worms Reloaded
+* Worms: Ultimate Mayhem
+* X-COM: Terror From the Deep
+* XIII Century
+* Yar's Revenge
+* You Are Empty
+* Youda Survivor 2v1
+* You Don't Know Jack
+* Zeit²
+* Zombie Bowling
+* Zombie Driver HD
+* Zombie Driver: Summer of Slaughter
+
+
+=1/5/2013=
+* Atlantis: The Lost Tales
+* Atlantis II: Beyond Atlantis
+* Atlantis III: The New World
+* Carmageddon
+* Carmageddon Splat Pack
+* Closure - Steam only
+* The Dark Eye - Chains of Satinav
+* Dungeon Defenders - Added support for non-steam copies
+* Enda & Harvey: The Breakout
+* Harvey's New Eyes
+* Iron Brigade
+* Mutant Mudds
+* NecroVisioN - Contributed by simtech76
+* Oddworld: Stranger's Wrath HD
+* Perimiter
+* Return to Mysterious Island
+* Rochard - Steam Cloud
+* Snapshot
+* Splice - Steam Cloud
+* Star Wars: Tie Fighter - Contributed by Jason Lambert
+* Unmechanical
+* Warhammer 40,000: Dawn Of War GOTY - Added Steam support
+* Wing Commander: The Secret Missions 2: Crusade
+* Wing Commenter II: Special Operations 1
+* Wing Commenter II: Special Operations 2
+* Wizorb - Steam cloud
+* Zen Bound 2 - Steam Cloud
+Contributed by Arc Angel:
+* Deadlight
+* Dishonored
+* Hotline Miami
+* Realm of Ancient War
+* Retro City Rampage
+
+Contributed by AdmiringWorm
+* 4x4 Hummer - Added Settings type and added new Registry key
+* A.I.M. Racing - Added new Registry key
+* Angels Online - Updated Settings Type
+* APB Reloaded - Added Steam registry key
+* Aquaria - Added Steam registry key
+* Art of Murder - FBI Confidential
+* Ben There, Dan That! - Added Settings type and added Steam Registry path
+* Bobby
+* Bounce!
+* Call of Duty - Added Steam Registry path
+* Call of Duty 2 - Added Steam Registry path
+* Call of Duty 4: Modern Warfare - Added Steam Registry path
+* Call of Duty: Modern Warfare 3 - Added Steam Registry paths
+* Call of Duty: United Offensive - Added Steam Registry path
+* Ceville - Added Settings type
+* Cities in Motion - Added Maps Type
+* Classic Car Racing - Updated Settings type and Added Steam Registry path
+* Counter-Strike
+* Counter-Strike: Condition Zero - Added Norwegian region
+* Counter-Strike: Condition Zero: Deleted Scenes - Added Norwegian region
+* Counter-Strike: Global Offensive - Settings Only
+* Counter-Strike: Source - Updated files to save and added Beta Release
+* CSI: Hard Evidence - Added Steam Registry path
+* Criminal Minds
+* Crusader Kings
+* Day of Defeat - Added Steam Registry path and updated the files to back up
+* Day of Defeat: Source - Updated files to save
+* Dead Meets Lead
+* Deadly Association
+* Dreamfall: The Longest Journey - Added Steam Registry path
+* Drift City
+* The Elder Scrolls 3: Morrowind - Added Steam Registry path and Settings type
+* FishTycoon - Added Steam Registry path
+* Garry's Mod - Added new Settings type and Steam Registry path and Added Beta Release
+* Gish - Added Steam Registry path and Settings type
+* GM Rally - Removed backup of unnecessary settings type files and added a steam registry location
+* Grand Theft Auto 2 - Added Registry paths
+* GTI Racing - Removed backup of unnecessary settings type files and added a registry location
+* Hacker Evolution Duality - Added Steam Registry path and new files to backup
+* Half-Life - Added Norwegian region
+* Half-Life 2 - Added Steam Registry path
+* Half-Life 2: Deathmatch
+* Half-Life 2: Lost Coast - Added Settings type and Added Steam registry path
+* Half-Life: Blue Shift - Added Norwegian region
+* Half-Life: OpposingForce - Added Norwegian region
+* Icy Tower 1.5 - Added Settings type
+* Jack Keane - Added settings type
+* Lugaru HD - Fixed the files to back up (Files in xml does not exist)
+* Machinarium - Added new flashshared path
+* Medal of Honor: Warfighter
+* Osmos - Added new types
+* Poker Night at the Inventory - Added Settings type
+* Police Force
+* Portal - Added Settings Type and Steam Registry path
+* Pulsen
+* Recettear: An Item Shop's Tale - Added Steam Registry path
+* Sam & Max: - The Devil's Playground Episode 2 - Added Settings type
+* Sam & Max: - The Devil's Playground Episode 3 - Added Settings type
+* Sam & Max: - The Devil's Playground Episode 4 - Added Settings type
+* Sam & Max: - The Devil's Playground Episode 5 - Added Settings type
+* Sniper Elite - Added Steam Registry Path
+* Sniper Elite V2 - Added Settings type and SteamCloud
+* Sniper: Ghost Warrior - Added Settings type
+* Spaces Pirates and Zombies - Added Settings type
+* Streets of Moscow - Updated Settings type
+* Team Fortress Classic
+* Trackmania Nations Forever - Added four(4) new types
+* Trials 2: Second Edition - Added Settings type
+* Uplink - Added Steam Registry path
+* Virtual Villagers 2: The Lost Children - Added exclude
+* Virtual Villagers 3: The Secret City - Added exclude
+* Virtual Villagers: A New Home
+* Volvo - The Game
+* Xpand Rally - Updated Settings type and Added Steam Registry path
+* Xpand Rally Extreme - Updated Settings type and Added Steam Registry path and Fixed title name
+* Zero Gear
+
+Contributed by GameSaveManager
+* Baldur's Gate: Enhanced Edition
+
+
+=Sometime in October I think=
+* Adventures of Shuggy - Contributed by Arc Angel
+* Black Mesa - Contributed by Frozer
+* Borderlands 2 - Contributed by Arc Angel and simtech76
+* Hector: Badge of Carnage Episode 2 - Contributed by Arc Angel
+* Hector: Badge of Carnage Episode 3 - Contributed by Arc Angel
+* Legacy of Kain: Soul Reaver - Gog only
+* Legacy of Kain: Soul Reaver 2
+* Nexus: The Jupiter Incident
+* Silver - GoG only
+Added GoG info for:
+* Anachronox
+* Sid Meier's Colonization
+* Hitman: Codename 47
+* Hitman 2: Silent Assassin
+* Machinarium
+* Thief Gold
+* Tomb Raider
+* Tomb Raider II
+* Tomb Raider III
+* Tomb Raider: Chronicles
+* Tomb Raider: The Angel of Darkness
+* Tomb Raider: The Last Revelation
+Contributed by GameSaveManager
+* Age of Wonders II
+* Anna
+* Arx Libertatis
+* A Valley Without Wind
+* Bang Bang Racing
+* Crazy Taxi
+* Dirt:Showdown - Disc info
+* Dragon Age: Legends
+* East India Company
+* Europa Universalis 3
+* Gorasul: The Legacy of the Dragon
+* Hack, Slash, Loot
+* Inquisitor
+* McPixel
+* Mercenaries 2 - New vista path
+* Minecraft: Technic
+* Need for Speed: High Stakes
+* Portal Prelude
+* Pro Evolution Soccer 2013
+* Puzzle Kingdoms
+* Rune
+* Shad'O
+* Sleeping Dogs - Added disc path
+* Spider-Man: Friend or Foe
+* Starship Titanic
+* Take On Helicopters
+* Torchlight II
+* UFO Afterlight
+* Victoria II
+* Worms Armageddon
+* Xenonauts
+* X-Men: The Official Game
+
+=2012-08-21T10:58:39=
+* Dark Souls: Prepare to Die Edition - Contributed by lonepie
+* Arma II: Operation Arrowhead - Contributed by simtech76
+* Homefront - Steam cloud data - Contributed by simtech76
+* Darksiders II - Contributed by Arc Angel
+* Rig 'n Roll - Contributed by Arc Angel
+* Death to Spies - Contributed by Arc Angel
+* I Am Alive - Contributed by Arc Angel
+Contributed by GameSaveManager
+* Age of Empires
+* Blades of Time
+* Chains
+* ClaDun x2
+* Cold War
+* FTL: Faster Than Light
+* Gotham City Imposters: Free To Play
+* Juiced
+* Luxor
+* MacGuffin's Curse
+* Mad Riders
+* Pro Cycling Manager 2012
+* Sherlock Holmes: Nemesis
+* Sonic CD
+* Taito Legends
+* Taito Legends 2
+* The Guild II: Renaissance
+* The Political Machine 2008
+* The Political Machine 2012
+* Transformers: Fall of Cybertron
+* Wanderlust: Rebirth
+* Wasteland Angel
+
+=8/27/2012=
+* Resonance - Contributed by mathieu.lacam
+* Theme Hospital - Better info from ctristan
+From simtech:
+* Formula One
+* Gratuitous Space Battles - Added campaign progress folder
+* Hacker Evolution - Added Steam path 
+* Section 8 - Fixed incorrect path 
+* Supreme Commander 2 - Seperated settings folder into new entry
+* UPlay - Updated savegame folder name
+From GameSaveManager:
+* All Zombies Must Die!
+* Choplifter HD
+* Crash Time 2: Burning Wheels
+* Crash Time 3: Highway Nights
+* Cogs - Added steam cloud info
+* Costume Quest
+* Darkest of Days - Added steam path
+* Death Rally
+* Diablo III
+* Disciples II: Gallean's Return
+* Disciples II: Rise of the Elves
+* Divine Divinity
+* Dogfighter - Added steam cloud info
+* Driver: San Fransisco - Added more refined file info
+* Dungeons
+* Dungeons: The Dark Lord
+* Euro Truck Simulator
+* Evochron Mercenary
+* Final Fantasy VII 2012 Edition
+* Firestorm
+* From Dust - Added non-steam path
+* Full Spectrum Warrior
+* Full Spectrum Warrior: Ten Hammers
+* Game of Thrones: Genesis
+* Gratuitous Tank Battles
+* Hacker Evolution: Untold
+* Hard Reset: Extended Edition
+* H.A.W.X. 2 - Added Ubisoft cloud info
+* HOARD
+* Ice Age 2
+* Ice Age 4: Continental Drift
+* I-Fluid
+* J.U.L.I.A.
+* Legendary
+* Magic: The Gathering - Duels of the Planeswalkers
+* Orcs Must Die! 2
+* Order of War
+* Order of War - Challenge
+* Roller Coaster Rampage
+* Rome: Total War: Alexander - Added steam path
+* Sanctum - Added steam cloud info
+* Sleeping Dogs
+* Soldiers: Heroes of World War II
+* Space Siege
+* Symphony
+* Timeshift - Added steam path and install path
+* Two Worlds 2 - Castle Defense
+* Unstoppable Gorg
+* X: Beyond the Frontier
+* Zombie Driver - Added steam cloud info
+
+=8/16/2012=
 New Windows Games:
 Contributed by Arc Angel:
 * Avernum Escape From the Pit
